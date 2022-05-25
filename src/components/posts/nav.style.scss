@@ -1,0 +1,27 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    border: 1px solid blue;
+
+    img {
+        height: 70px;
+        width: auto;
+    }
+
+    .search-box-container {
+        display: flex;
+
+        input {
+            width: 300px;
+            height: 25px;
+        }
+    }
+
+    .wrap-log-in {
+        margin-right: 20px;
+        display: flex;
+        column-gap: 10px;
+    }
+}

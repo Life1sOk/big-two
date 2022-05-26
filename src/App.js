@@ -5,7 +5,7 @@ import './App.css';
 
 import MainNav from './components/main-nav/main.nav.component';
 import Home from './routers/home/home.component';
-import Registration from './routers/registration/registration.component';
+import Registration from './routers/auth/auth.component';
 
 function App() {
 
@@ -14,7 +14,7 @@ function App() {
       <Routes>
         <Route path='/' element={<MainNav />}>
           <Route index element={<Home />} />
-          <Route path='registration' element={<Registration />} />
+          <Route path='auth' element={<Registration />} />
         </Route>
       </Routes>
     </div>

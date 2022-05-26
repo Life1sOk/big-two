@@ -13,7 +13,7 @@ const Navigation = () => {
                 <div className='contacts'>Number</div>
             </div>
             <div className='wrap-log-in'>
-                <Link to='/registration'>
+                <Link to='/auth'>
                     <span>Sign In</span>
                 </Link>
                 <span>Basket</span>

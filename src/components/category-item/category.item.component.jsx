@@ -3,10 +3,10 @@ import React from "react";
 import './category.item.style.scss';
 
 const CategoryItem = ({category}) => {
-    const {id, title, imageUrl} = category;
+    const {title, imageUrl} = category;
 
     return(
-        <div id={id} className='category-item-container'>
+        <div className='category-item-container'>
             <div className="img" alt={title} style={{backgroundImage: `url(${imageUrl})`}}/>
             <div className="body">
                 <h2>{title.toUpperCase()}</h2>

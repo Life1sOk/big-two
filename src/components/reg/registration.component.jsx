@@ -1,6 +1,8 @@
 import React from "react";
 import { useState } from "react";
 
+import FormInput from "../form-input/form.input.component";
+
 import './ragistration.style.scss';
 
 import { createAuthWithEmailAndPassword, createUserDocumentFromAuth } from '../../utils/firebase/firebase.utils.js';
@@ -17,7 +19,7 @@ const Registration = () => {
     const [formFields, setFormFields] = useState(defaultSubmitObject);
     const { displayName, email, password, confirmePassword } = formFields;
 
-    console.log(formFields)
+    // console.log(formFields)
 
     const handleSubmit = async (event) => {
         event.preventDefault();
@@ -50,17 +52,14 @@ const Registration = () => {
                 <p>Don't have an accaunt?</p>
                 <p>Sign up with your email and password</p>
                 <form onSubmit={handleSubmit}>
-                    <label>Display Name</label>
-                    <input type='text' required onChange={changeHandler} name="displayName" value={displayName} />
 
-                    <label>E-mail</label>
-                    <input type='email' required onChange={changeHandler} name="email" value={email} />
+                    <FormInput label='Name' type='text' required onChange={changeHandler} name="displayName" value={displayName} />
 
-                    <label>Password</label>
-                    <input type='password' required onChange={changeHandler} name="password" value={password} />
+                    <FormInput label='Email' type='email' required onChange={changeHandler} name="email" value={email} />
 
-                    <label>Confirme Password</label>
-                    <input type='password' required onChange={changeHandler} name="confirmePassword" value={confirmePassword} />
+                    <FormInput label='Password' type='password' required onChange={changeHandler} name="password" value={password} />
+
+                    <FormInput label='Confirm Password' type='password' required onChange={changeHandler} name="confirmePassword" value={confirmePassword} />
 
                     <button type="submit">Sign Up</button>
                 </form>

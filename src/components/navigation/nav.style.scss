@@ -23,5 +23,12 @@
         margin-right: 20px;
         display: flex;
         column-gap: 10px;
+
+        .sign-out {
+            background-color: rgb(246, 91, 91);
+            color: blue;
+            text-decoration: underline;
+            cursor: pointer;
+        }
     }
 }

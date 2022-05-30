@@ -14,7 +14,7 @@ import './nav.style.scss';
 
 const Navigation = () => {
     const { currentUser } = useContext(UserContext);
-    const { cartOpen, setCartOpen } = useContext(CartContext);
+    const { cartOpen } = useContext(CartContext);
     
     return(
         <div className='nav-container'>

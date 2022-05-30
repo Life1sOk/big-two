@@ -8,7 +8,7 @@ import {
     signOut,
     onAuthStateChanged,
 } from 'firebase/auth';
-import { getFirestore, doc, getDoc, setDoc } from 'firebase/firestore'
+import { getFirestore, doc, getDoc, setDoc } from 'firebase/firestore';
 
 const firebaseConfig = {
     apiKey: "AIzaSyAsc7ufR3ku7Mmy6uKsqPj8_GYJVWtLXW0",
@@ -19,6 +19,7 @@ const firebaseConfig = {
     appId: "1:913007534015:web:654bbac201440a58f60b0a"
   };
 
+//   console.log(process.env);
 const firebaseApp = initializeApp(firebaseConfig);
 
 const providerGoogle = new GoogleAuthProvider();

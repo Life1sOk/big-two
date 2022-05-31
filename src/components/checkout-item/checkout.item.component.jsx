@@ -1,0 +1,39 @@
+import React from "react";
+
+import './checkout.item.style.scss';
+
+const CheckoutItem = ({cartItem, addItemToCart, removeCartItem, clearItemFromCart}) => {
+    const { name, count, picture, price } = cartItem;
+
+    const incrementHandler = () => {
+        return addItemToCart(cartItem)
+    }
+
+    const decremetnHangler = () => {
+        return removeCartItem(cartItem)
+    }
+
+    const clearItemHandler = () => {
+        return clearItemFromCart(cartItem)
+    }
+
+    return(
+        <div className="check-out-item-container">
+            <div className="image-container">
+                <img alt={name} src={typeof(picture) === "string" ? `${picture}` : `${picture[0]}`}/>
+            </div>
+            <span className="name">{name}</span>
+            <span className="quantity">
+                <div className="arrow" onClick={decremetnHangler}>&#10094;</div>
+                <span className="price">{count}</span>
+                <div className="arrow" onClick={incrementHandler}>&#10095;</div>
+            </span>
+            <span className="price">{price}</span>
+            <div className='remove-button' onClick={clearItemHandler}>
+                &#10005;
+            </div>
+        </div>
+    );
+}
+
+export default CheckoutItem;

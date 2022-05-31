@@ -9,31 +9,31 @@ const categories = [
       id: 1,
       title: "bracelets",
       imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
-    //   route: 'shop/hats'
+      route: 'shop/bracelets'
     },
     {
       id: 2,
       title: "earrings",
       imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
-    //   route: 'shop/jackets'
+      route: 'shop/earrings'
     },
     {
       id: 3,
       title: "rings",
       imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
-    //   route: 'shop/sneakers'
+      route: 'shop/rings'
     },
     {
       id: 4,
       title: "necklaces",
       imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
-    //   route: 'shop/womens'
+      route: 'shop/necklaces'
     },
     {
       id: 5,
       title: "modular decoration",
       imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
-    //   route: 'shop/mens'
+      route: 'shop/modular%20decoration'
     }
   ];
   

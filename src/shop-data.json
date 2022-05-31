@@ -1,6 +1,9 @@
 [
+  {
+  "title": "Bracelets",
+  "items": [
     {
-      "-available": "true",
+      "available": "true",
       "id": "30047",
       "url": "http://kleo4you.com/i-am-enough-braslet-gematit-s-serebryanymi-razdelitelyami-slov/",
       "price": "7120.00",
@@ -18,7 +21,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30049",
       "url": "http://kleo4you.com/30049/",
       "price": "7120.00",
@@ -36,7 +39,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30048",
       "url": "http://kleo4you.com/i-am-enough-braslet-gematit-s-chernymi-businami/",
       "price": "7120.00",
@@ -54,7 +57,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30044",
       "url": "http://kleo4you.com/vdokhnovlyayushchiy-braslet/",
       "price": "5520.00",
@@ -71,7 +74,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30045",
       "url": "http://kleo4you.com/30045/",
       "price": "5520.00",
@@ -88,7 +91,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30046",
       "url": "http://kleo4you.com/30046/",
       "price": "5520.00",
@@ -105,7 +108,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30060",
       "url": "http://kleo4you.com/30060/",
       "price": "31725.00",
@@ -121,7 +124,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30050",
       "url": "http://kleo4you.com/30050/",
       "price": "26625.00",
@@ -134,7 +137,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30059",
       "url": "http://kleo4you.com/30059/",
       "price": "39750.00",
@@ -147,7 +150,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30056",
       "url": "http://kleo4you.com/30056/",
       "price": "27225.00",
@@ -160,7 +163,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30058",
       "url": "http://kleo4you.com/30058/",
       "price": "35625.00",
@@ -173,7 +176,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "28686",
       "url": "http://kleo4you.com/28686/",
       "price": "14000.00",
@@ -194,7 +197,7 @@
       "name": "Браслет из коллекции Valentine"
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30052",
       "url": "http://kleo4you.com/30052/",
       "price": "46350.00",
@@ -207,7 +210,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30054",
       "url": "http://kleo4you.com/30054/",
       "price": "29325.00",
@@ -220,7 +223,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30055",
       "url": "http://kleo4you.com/30055/",
       "price": "33225.00",
@@ -233,7 +236,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30057",
       "url": "http://kleo4you.com/30057/",
       "price": "28350.00",
@@ -249,7 +252,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30064",
       "url": "http://kleo4you.com/30064/",
       "price": "39975.00",
@@ -262,7 +265,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30068",
       "url": "http://kleo4you.com/30068/",
       "price": "29250.00",
@@ -275,7 +278,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30061",
       "url": "http://kleo4you.com/30061/",
       "price": "38400.00",
@@ -288,7 +291,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30062",
       "url": "http://kleo4you.com/30062/",
       "price": "29175.00",
@@ -301,7 +304,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30063",
       "url": "http://kleo4you.com/30063/",
       "price": "44025.00",
@@ -314,7 +317,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30053",
       "url": "http://kleo4you.com/30053/",
       "price": "35775.00",
@@ -327,7 +330,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30051",
       "url": "http://kleo4you.com/30051/",
       "price": "49275.00",
@@ -340,7 +343,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30065",
       "url": "http://kleo4you.com/30065/",
       "price": "45525.00",
@@ -353,7 +356,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30069",
       "url": "http://kleo4you.com/30069/",
       "price": "34500.00",
@@ -366,7 +369,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30066",
       "url": "http://kleo4you.com/30066/",
       "price": "48600.00",
@@ -382,7 +385,7 @@
       }
     },
     {
-      "-available": "true",
+      "available": "true",
       "id": "30067",
       "url": "http://kleo4you.com/30067/",
       "price": "25200.00",
@@ -394,4 +397,2751 @@
         "#cdata-section": "В Китае рыба символизирует богатство и достаток. \nНа Востоке рыба стала символом супружеского счастья и гармонии. \nПрактически во всех культурах рыбы-это символ удачи, богатства и процветания. \nА в нашем случае, еще радость, чистота чувств и гибкость. \nВедь именно эти качества в большей степени помогут создать гармонию и счастье."
       }
     }
-  ]
+    ]
+  },
+  {
+    "title": "Earrings",
+    "items": [
+      {
+        "available": "true",
+        "id": "28675",
+        "url": "http://kleo4you.com/28675/",
+        "price": "21700.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/75/86/28675/images/2676/2676.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/86/28675/images/4540/4540.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/86/28675/images/2677/2677.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/75/86/28675/images/4541/4541.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/86/28675/images/4542/4542.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/86/28675/images/4543/4543.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/86/28675/images/4544/4544.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/86/28675/images/4545/4545.970.JPG"
+        ],
+        "name": "Асимметричные серьги-трансформеры из коллекции Yacht club"
+      },
+      {
+        "available": "true",
+        "id": "29940",
+        "url": "http://kleo4you.com/asimetpichnyesergi/",
+        "price": "14720.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/40/99/29940/images/4641/4641.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/40/99/29940/images/4645/4645.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/40/99/29940/images/5091/5091.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/40/99/29940/images/4640/4640.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/40/99/29940/images/4642/4642.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/40/99/29940/images/5092/5092.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/40/99/29940/images/4643/4643.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/40/99/29940/images/4644/4644.970.jpg"
+        ],
+        "name": "Ассиметричные серьги"
+      },
+      {
+        "available": "true",
+        "id": "29898",
+        "url": "http://kleo4you.com/assimetrichnye-sergi-/",
+        "price": "5530.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/98/98/29898/images/4563/4563.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/98/98/29898/images/4558/4558.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/98/98/29898/images/4559/4559.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/98/98/29898/images/4560/4560.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/98/98/29898/images/4561/4561.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/98/98/29898/images/4562/4562.970.JPG"
+        ],
+        "name": "Ассиметричные серьги из коллекции PINK PLANET"
+      },
+      {
+        "available": "true",
+        "id": "29948",
+        "url": "http://kleo4you.com/29948/",
+        "price": "15120.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/48/99/29948/images/4684/4684.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/48/99/29948/images/4683/4683.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/48/99/29948/images/4685/4685.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/48/99/29948/images/4686/4686.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/48/99/29948/images/4687/4687.970.jpg"
+        ],
+        "name": "Ассиметричные серьги цепи-кисточки"
+      },
+      {
+        "available": "true",
+        "id": "29944",
+        "url": "http://kleo4you.com/29944/",
+        "price": "13920.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/44/99/29944/images/4662/4662.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/44/99/29944/images/4661/4661.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/44/99/29944/images/4663/4663.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/44/99/29944/images/4664/4664.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/44/99/29944/images/4665/4665.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/44/99/29944/images/4666/4666.970.jpg"
+        ],
+        "name": "Воздушные серьги Движение",
+        "description": {
+          "#cdata-section": "Воздушные серебряные серьги! Будь в движении! Тренд 2021 года! \nОчень стильные воздушные серьги, которые придадут вам шарм в любую погоду."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29939",
+        "url": "http://kleo4you.com/myatye-vintajnye-sergy/",
+        "price": "16240.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/39/99/29939/images/4638/4638.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/39/99/29939/images/4635/4635.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/39/99/29939/images/4636/4636.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/39/99/29939/images/4637/4637.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/39/99/29939/images/4639/4639.970.jpg"
+        ],
+        "name": "Мятые винтажные серьги",
+        "description": {
+          "#cdata-section": "Стильные трендовые серьги, сделанные из серебра 925 пробы с 18 к золотым напылением! \nПодойдут для любого случая! Будьте неотразимы в любой ситуации!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29941",
+        "url": "http://kleo4you.com/29941/",
+        "price": "13920.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/41/99/29941/images/4651/4651.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/41/99/29941/images/4646/4646.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/41/99/29941/images/4647/4647.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/41/99/29941/images/4648/4648.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/41/99/29941/images/4649/4649.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/41/99/29941/images/4650/4650.970.jpg"
+        ],
+        "name": "Серебряные серьги Fanny Face",
+        "description": {
+          "#cdata-section": "Улыбайся всегда! Тренд 2021 года! \nКреативные серебряные серьги  Fanny Face всегда будут вызывать в вас улыбку и повышать ваше настрение. \nБудьте всегда в позитиве!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29949",
+        "url": "http://kleo4you.com/29949/",
+        "price": "10240.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/49/99/29949/images/5093/5093.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/49/99/29949/images/4688/4688.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/49/99/29949/images/4689/4689.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/49/99/29949/images/4690/4690.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/49/99/29949/images/4691/4691.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/49/99/29949/images/4692/4692.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/49/99/29949/images/5094/5094.970.jpg"
+        ],
+        "name": "Серебряные серьги с жемчугом",
+        "description": {
+          "#cdata-section": "Минималистичные классические серебряные серьги с жемчугом! \nАктуальная классика во все времена!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29946",
+        "url": "http://kleo4you.com/29946/",
+        "price": "12480.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/46/99/29946/images/4674/4674.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/46/99/29946/images/4673/4673.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/46/99/29946/images/4675/4675.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/46/99/29946/images/4676/4676.970.jpg"
+        ],
+        "name": "Серьги Геометрия",
+        "description": {
+          "#cdata-section": "Трендовые минималистические серебряные серьги!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29943",
+        "url": "http://kleo4you.com/29943/",
+        "price": "10160.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/43/99/29943/images/4659/4659.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/43/99/29943/images/4656/4656.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/43/99/29943/images/4657/4657.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/43/99/29943/images/4658/4658.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/43/99/29943/images/4660/4660.970.jpg"
+        ],
+        "name": "Серьги Капли",
+        "description": {
+          "#cdata-section": "Серебряные серьги в виде капельки. \nТренд 2021 года! \nСтильные минималистические, очень аккуратные сережки подойдут на каждый день!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29951",
+        "url": "http://kleo4you.com/29951/",
+        "price": "15600.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/51/99/29951/images/4704/4704.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/51/99/29951/images/4703/4703.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/51/99/29951/images/4705/4705.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/51/99/29951/images/4706/4706.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/51/99/29951/images/5095/5095.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/51/99/29951/images/5097/5097.970.jpg"
+        ],
+        "name": "Серьги Летающие монетки",
+        "description": {
+          "#cdata-section": "Стильные серебряные монетки на цепочках!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29942",
+        "url": "http://kleo4you.com/29942/",
+        "price": "18240.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/42/99/29942/images/4653/4653.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/42/99/29942/images/4652/4652.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/42/99/29942/images/5098/5098.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/42/99/29942/images/5099/5099.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/42/99/29942/images/4654/4654.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/42/99/29942/images/4655/4655.970.jpg"
+        ],
+        "name": "Серьги Необычная классика с жемчугом Барокко",
+        "description": {
+          "#cdata-section": "Очень стильные серьги с жемчугом Барокко. \nТренд 2021 года! Для любого случая! И в мир и в пир!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29958",
+        "url": "http://kleo4you.com/29958/",
+        "price": "12480.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/58/99/29958/images/4733/4733.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/58/99/29958/images/4734/4734.970.jpg"
+        ],
+        "name": "Серьги Очарование",
+        "description": {
+          "#cdata-section": "Минимализм и стиль актуальны во все времена!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29952",
+        "url": "http://kleo4you.com/29952/",
+        "price": "9840.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/52/99/29952/images/4708/4708.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/52/99/29952/images/4707/4707.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/52/99/29952/images/4709/4709.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/52/99/29952/images/4710/4710.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/52/99/29952/images/4711/4711.970.jpg"
+        ],
+        "name": "Серьги Ребристые квадраты",
+        "description": {
+          "#cdata-section": "Минимализм и стиль! Не просто пусеты!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29953",
+        "url": "http://kleo4you.com/29953/",
+        "price": "12480.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/53/99/29953/images/4713/4713.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/53/99/29953/images/4712/4712.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/53/99/29953/images/4714/4714.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/53/99/29953/images/4715/4715.970.jpg"
+        ],
+        "name": "Серьги Рельеф",
+        "description": {
+          "#cdata-section": "Ничего лишнего, минимализм и стиль! Тренд на все времена!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29950",
+        "url": "http://kleo4you.com/29950/",
+        "price": "15360.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/50/99/29950/images/4693/4693.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/99/29950/images/4700/4700.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/99/29950/images/4699/4699.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/99/29950/images/4701/4701.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/99/29950/images/4702/4702.970.jpg"
+        ],
+        "name": "Серьги с жемчугом Барокко",
+        "description": {
+          "#cdata-section": "Минималистические серебряные серьги с натуральным жемчугом Барокко прекрасно дополнят ваш образ! \nПрекрасно сочетаются с любой одеждой! \nТренд на все времена!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29945",
+        "url": "http://kleo4you.com/29945/",
+        "price": "13040.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/45/99/29945/images/4668/4668.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/45/99/29945/images/4667/4667.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/45/99/29945/images/4669/4669.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/45/99/29945/images/4670/4670.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/45/99/29945/images/4671/4671.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/45/99/29945/images/4672/4672.970.jpg"
+        ],
+        "name": "Серьги с кисточками",
+        "description": {
+          "#cdata-section": "Воздушные элегантные серьги! Тренд 2021!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29947",
+        "url": "http://kleo4you.com/29947/",
+        "price": "12880.00",
+        "currencyId": "KZT",
+        "categoryId": "1834",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/47/99/29947/images/4678/4678.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/47/99/29947/images/4677/4677.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/47/99/29947/images/4679/4679.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/47/99/29947/images/4680/4680.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/47/99/29947/images/4681/4681.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/47/99/29947/images/4682/4682.970.jpg"
+        ],
+        "name": "Серьги Сверкающие ракушки",
+        "description": {
+          "#cdata-section": "Минималистические серебранные серьги в виде ракушки прекрасно сочетаются с любым нарядом. \nТренд во все времена!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Rings",
+    "items": [
+      {
+        "available": "true",
+        "id": "28596",
+        "url": "http://kleo4you.com/koltso-iz-kollektsii-graphite/",
+        "price": "12460.00",
+        "currencyId": "KZT",
+        "categoryId": "1835",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/96/85/28596/images/4469/4469.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/96/85/28596/images/2386/2386.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/96/85/28596/images/4466/4466.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/96/85/28596/images/4467/4467.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/96/85/28596/images/4468/4468.970.JPG"
+        ],
+        "name": "Кольцо из коллекции Graphite"
+      },
+      {
+        "available": "true",
+        "id": "28689",
+        "url": "http://kleo4you.com/28689/",
+        "price": "9700.00",
+        "currencyId": "KZT",
+        "categoryId": "1835",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/89/86/28689/images/4494/4494.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/86/28689/images/2779/2779.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/86/28689/images/4495/4495.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/86/28689/images/4496/4496.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/86/28689/images/4497/4497.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/86/28689/images/4498/4498.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/86/28689/images/4499/4499.970.JPG"
+        ],
+        "name": "Кольцо из коллекции Up&Down"
+      },
+      {
+        "available": "true",
+        "id": "28682",
+        "url": "http://kleo4you.com/28682/",
+        "price": "5040.00",
+        "currencyId": "KZT",
+        "categoryId": "1835",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/82/86/28682/images/4489/4489.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/82/86/28682/images/2728/2728.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/82/86/28682/images/4490/4490.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/82/86/28682/images/4491/4491.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/82/86/28682/images/4492/4492.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/82/86/28682/images/4493/4493.970.JPG"
+        ],
+        "name": "Кольцо из коллекции Valentine"
+      },
+      {
+        "available": "true",
+        "id": "28378",
+        "url": "http://kleo4you.com/28378/",
+        "price": "8330.00",
+        "currencyId": "KZT",
+        "categoryId": "1835",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/78/83/28378/images/4478/4478.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/78/83/28378/images/1773/1773.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/78/83/28378/images/2485/2485.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/78/83/28378/images/4479/4479.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/78/83/28378/images/4480/4480.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/78/83/28378/images/4481/4481.970.JPG"
+        ],
+        "name": "Серебряное кольцо из коллекции EIFFEL"
+      },
+      {
+        "available": "true",
+        "id": "28395",
+        "url": "http://kleo4you.com/28395/",
+        "price": "7910.00",
+        "currencyId": "KZT",
+        "categoryId": "1835",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/95/83/28395/images/4474/4474.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/83/28395/images/4476/4476.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/83/28395/images/4477/4477.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/83/28395/images/4475/4475.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/83/28395/images/1890/1890.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/95/83/28395/images/1903/1903.970.jpg"
+        ],
+        "name": "Серебряное кольцо из коллекция CROISETTE"
+      },
+      {
+        "available": "true",
+        "id": "29897",
+        "url": "http://kleo4you.com/29897/",
+        "price": "12880.00",
+        "currencyId": "KZT",
+        "categoryId": "1835",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/97/98/29897/images/4505/4505.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/98/29897/images/4500/4500.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/98/29897/images/4501/4501.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/98/29897/images/4502/4502.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/98/29897/images/4503/4503.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/98/29897/images/4504/4504.970.JPG"
+        ],
+        "name": "Стильное кольцо от APM MONACO",
+        "description": {
+          "#cdata-section": "Стильное массивное кольцо. \nДля любительниц крупных необычных изделий. \nПодойдет как на каждый день, так и на вечеринку.\nСеребро с родированным покрытием очень износостойкое, \nне требует особого внимания и всегда будет радовать своим безупречным состоянием."
+        }
+      },
+      {
+        "available": "true",
+        "id": "28595",
+        "url": "http://kleo4you.com/stilnoe-koltso-ot-arm/",
+        "price": "9170.00",
+        "currencyId": "KZT",
+        "categoryId": "1835",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/95/85/28595/images/4461/4461.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/85/28595/images/4463/4463.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/85/28595/images/4464/4464.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/85/28595/images/4465/4465.970.JPG"
+        ],
+        "name": "Стильное кольцо от АРМ"
+      }
+    ]
+  },
+  {
+    "title": "NECKLACES",
+    "items": [
+      {
+        "available": "true",
+        "id": "28678",
+        "url": "http://kleo4you.com/28678/",
+        "price": "18060.00",
+        "currencyId": "KZT",
+        "categoryId": "1836",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/78/86/28678/images/2692/2692.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/78/86/28678/images/2691/2691.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/78/86/28678/images/2693/2693.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/78/86/28678/images/2694/2694.970.JPG"
+        ],
+        "name": "Ожерелье из коллекции Venus"
+      },
+      {
+        "available": "true",
+        "id": "29954",
+        "url": "http://kleo4you.com/29954/",
+        "price": "15800.00",
+        "currencyId": "KZT",
+        "categoryId": "1836",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/54/99/29954/images/4720/4720.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/54/99/29954/images/4716/4716.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/54/99/29954/images/4717/4717.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/54/99/29954/images/4718/4718.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/54/99/29954/images/4719/4719.970.jpg"
+        ],
+        "name": "Серебряная абстрактная цепь",
+        "description": {
+          "#cdata-section": "Необычная абстрактная серебряная цепочка дополнит любой ваш образ! \nПростые формы, стиль, минимализм никого не оставит равнодушным! Тренд 2021 года!"
+        },
+        "weight": "3.200"
+      },
+      {
+        "available": "true",
+        "id": "29957",
+        "url": "http://kleo4you.com/29957/",
+        "price": "14900.00",
+        "currencyId": "KZT",
+        "categoryId": "1836",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/57/99/29957/images/4730/4730.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/57/99/29957/images/4729/4729.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/57/99/29957/images/4731/4731.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/57/99/29957/images/4732/4732.970.jpg"
+        ],
+        "name": "Цепочка Минимализм",
+        "description": {
+          "#cdata-section": "Стильная минималистичная серебряная цепочка! \nНежность и стиль! Тренд 2021!"
+        },
+        "weight": "3.200"
+      },
+      {
+        "available": "true",
+        "id": "29955",
+        "url": "http://kleo4you.com/29955/",
+        "price": "15600.00",
+        "currencyId": "KZT",
+        "categoryId": "1836",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/55/99/29955/images/4722/4722.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/55/99/29955/images/4721/4721.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/55/99/29955/images/4723/4723.970.jpg"
+        ],
+        "name": "Цепь Мой счастливый финал",
+        "description": {
+          "#cdata-section": "Минималистическая серебряная цепь \"Мой счастливый финал\" дополнит любой образ! \nТренд 2021 года!"
+        },
+        "weight": "4.350"
+      },
+      {
+        "available": "true",
+        "id": "29956",
+        "url": "http://kleo4you.com/29956/",
+        "price": "23100.00",
+        "currencyId": "KZT",
+        "categoryId": "1836",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/56/99/29956/images/4726/4726.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/56/99/29956/images/4724/4724.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/56/99/29956/images/4725/4725.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/56/99/29956/images/4727/4727.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/56/99/29956/images/4728/4728.970.jpg"
+        ],
+        "name": "Цепь-чокер Монетки",
+        "description": {
+          "#cdata-section": "Минималистическая серебряная цепь-чокер Монетки дополнит любой образ! Тренд 2021 года!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "MODULAR DECORATION",
+    "items": [
+      {
+        "available": "true",
+        "id": "29963",
+        "url": "http://kleo4you.com/29963/",
+        "price": "24200.00",
+        "currencyId": "KZT",
+        "categoryId": "1838",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/63/99/29963/images/4749/4749.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/63/99/29963/images/4752/4752.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/63/99/29963/images/4750/4750.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/63/99/29963/images/4751/4751.970.PNG"
+        ],
+        "name": "Cеребряный браслет со сверкающим замочком"
+      },
+      {
+        "available": "true",
+        "id": "28926",
+        "url": "http://kleo4you.com/28926/",
+        "price": "14960.00",
+        "currencyId": "KZT",
+        "categoryId": "1838",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/26/89/28926/images/3367/3367.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/26/89/28926/images/3368/3368.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/26/89/28926/images/3369/3369.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/26/89/28926/images/3370/3370.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/26/89/28926/images/3371/3371.970.jpg"
+        ],
+        "name": "Браслет-основа \"Кардинал\" с фирменным замком в виде сердца.",
+        "description": {
+          "#cdata-section": "Браслет-основа \"Кардинал\" с фирменным замком в виде сердца.Плетение \"Кардинал\" с перемычками и удлинителем для регулировки размера.ОДИН ИЗ САМЫХ СЛОЖНЫХ ВИДОВ ПЛЕТЕНИЯ И ПОЭТОМУ ЧАСТО ВЫПОЛНЯЕТСЯ ВРУЧНУЮ. ЭТО ТРОЙНОЕ ПЛЕТЕНИЕ И ПОЭТОМУ ОНО НЕ ТОЛЬКО КРАСИВОЕ, НО И ОЧЕНЬ ПРОЧНОЕ! Выберите браслет \"Кардинал\" и начните подбирать шармы!!"
+        },
+        "weight": "13.670"
+      },
+      {
+        "available": "true",
+        "id": "29986",
+        "url": "http://kleo4you.com/29986/",
+        "price": "21600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/86/99/29986/images/4855/4855.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/86/99/29986/images/4856/4856.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/86/99/29986/images/4857/4857.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/86/99/29986/images/4858/4858.970.PNG"
+        ],
+        "name": "Двойная подвеска \"Сестра\"",
+        "description": {
+          "#cdata-section": "Продемонстрируйте свои сестринские узы с помощью оберега «Связанные сердца сестер». \nЭта двойная подвеска, сделанная из стерлингового серебра, включает в себя два соединенных между собой открытых сердца, каждое из которых украшено сверкающим прозрачным кубическим цирконием и гравировкой (на одном написано «Сестричка», а на другом - «Сестра»). \nНа обратной стороне каждое сердце имеет небольшие вырезы в форме сердца и выгравировано с надписью «У меня всегда будет друг». \nСердца можно разделить, так что одно можно подарить своей сестре - напоминание о вашей вечной связи."
+        }
+      },
+      {
+        "available": "true",
+        "id": "30003",
+        "url": "http://kleo4you.com/30003/",
+        "price": "17400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/03/00/30003/images/4923/4923.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/03/00/30003/images/4924/4924.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/03/00/30003/images/4925/4925.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/03/00/30003/images/4926/4926.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/03/00/30003/images/4927/4927.970.PNG"
+        ],
+        "name": "Клипса \"Глобус\"",
+        "description": {
+          "#cdata-section": "Мечтаешь о путешествиях? Или готов покорить весь мир?\nТогда этот шарм-клипса для тебя!\nПусть он напоминает тебе о неизведанных краях, о далеких странах, ведь весь земной шар у твоих ног!\n Главное упорство в каждом деле и преданность своим мечтам!\nТакже, клипса предназначена для того, чтобы разделить и распределить все шармы по браслету равномерно.\nТематика: подарок, путешествия, семья, дети, мечты, отпуск, день рождение, новый год и любой другой праздник"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30006",
+        "url": "http://kleo4you.com/30006/",
+        "price": "15400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/06/00/30006/images/4941/4941.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/06/00/30006/images/4942/4942.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/06/00/30006/images/4943/4943.970.PNG"
+        ],
+        "name": "Клипса \"Звездные войны\"",
+        "description": {
+          "#cdata-section": "Звездные войны? Галактика? Неизвестность?\nДля воинственных, смелых, упорных и преданных своим мечтам создан этот шарм-клипса!\nДополните свой браслет этим шармом, как напоминание о ваших целях и о том, что нужно мечтать о большом и ничего не бояться!\n\nТематика: Подарок, семья, дети, увлечение, мечты, день рождение, новый год и любой другой праздник"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30019",
+        "url": "http://kleo4you.com/30019/",
+        "price": "14200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/19/00/30019/images/4992/4992.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/19/00/30019/images/4993/4993.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/19/00/30019/images/4994/4994.970.jpeg"
+        ],
+        "name": "Клипса \"Ленты\"",
+        "description": {
+          "#cdata-section": "Этот шарм-клипса с плоскими полированными лентами, обернутыми вокруг зажима в виде перекрещивающегося фактурного узора, \nпридаст вашему образу изящный минималистский элемент и идеально будет сочетаться с вашим браслетом.\n\nТематика: Повседневный образ, тренд, подарок, день рождение, новый год"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30017",
+        "url": "http://kleo4you.com/30017/",
+        "price": "13400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/17/00/30017/images/4985/4985.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/17/00/30017/images/4986/4986.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/17/00/30017/images/4987/4987.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/17/00/30017/images/4988/4988.970.PNG"
+        ],
+        "name": "Клипса \"Сверкающая линия\"",
+        "description": {
+          "#cdata-section": "Подчеркните свой стиль с помощью клипсы-шарма \"Сверкающая линия\", а еще, немного блеска, чтобы добавить  интриги в свой образ.\nКлипса имеет силиконовое колечко, поэтому его можно зафиксировать в любом месте на браслете, а не только на резьбу.\n\nТематика: день рождение, новый год и др.праздник, повседневный образ, вечерний образ, семья, любовь, дети"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29981",
+        "url": "http://kleo4you.com/29981/",
+        "price": "17400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/81/99/29981/images/4832/4832.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/81/99/29981/images/4833/4833.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/81/99/29981/images/4834/4834.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/81/99/29981/images/4835/4835.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/81/99/29981/images/4836/4836.970.PNG"
+        ],
+        "name": "Клипса \"Сверкающие звезды\"",
+        "description": {
+          "#cdata-section": "Клипса \"Сверкающие звезды\" добавит блеска вашему браслету!\nДобавьте эту милую и сверкающую клипсу на свой браслет, как напоминание, что всегда нужно тянуться к звездам!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29966",
+        "url": "http://kleo4you.com/kozhanyy-braslet-s-zamochkom-v-vide-lvenka/",
+        "price": "14900.00",
+        "currencyId": "KZT",
+        "categoryId": "1838",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/66/99/29966/images/4759/4759.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/66/99/29966/images/4760/4760.970.jpg"
+        ],
+        "name": "Кожаный браслет с замочком в виде головы львицы",
+        "description": {
+          "#cdata-section": "Кожаной браслет с замочком в виде головы львицы. \nЛьвица - величественное создание  в дикой природе, а в современном мире, как талисман-защитник и покровитель людей.\nТакой браслет подойдет для городского стиля и станет его прекрасным дополнением. \nДополните его разнообразием подвесок и придайте определенный смысл!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29961",
+        "url": "http://kleo4you.com/kozhanyy-braslet-s-zamochkom-v-vide-rakushki_1/",
+        "price": "14900.00",
+        "currencyId": "KZT",
+        "categoryId": "1838",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/61/99/29961/images/4743/4743.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/61/99/29961/images/4744/4744.970.PNG"
+        ],
+        "name": "Кожаный браслет с замочком в виде ракушки",
+        "description": {
+          "#cdata-section": "Море, солнце, песок-яркие воспоминания об отпуске или мечта? \nВ любом случае, кожаный браслет в бирюзовом цвете и с замочком в виде морской ракушки \nи в дополнении с шармами в морской тематике изменит ваш образ и добавит ярких красок."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29972",
+        "url": "http://kleo4you.com/29972/",
+        "price": "16800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/72/99/29972/images/4789/4789.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/72/99/29972/images/4790/4790.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/72/99/29972/images/4791/4791.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/72/99/29972/images/4792/4792.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/72/99/29972/images/4793/4793.970.PNG"
+        ],
+        "name": "Подвеска \" Сладкие сны!\"",
+        "description": {
+          "#cdata-section": "\"Сладких снов, Малышка!\"-милая подвеска, выполненная из серебра 925 пробы. \nДополните свой браслет подвеской \"Сладкие сны!\" и ожидайте чудес!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29532",
+        "url": "http://kleo4you.com/podveska-angelskoe-serdtse/",
+        "price": "5400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/32/95/29532/images/3706/3706.970.jpg",
+        "name": "Подвеска \"Ангельское сердце\"",
+        "description": {
+          "#cdata-section": "SALEПодвеска \"Ангельское сердце\" укроет от беды, подарит Радость и Счастье."
+        },
+        "weight": "2.720"
+      },
+      {
+        "available": "true",
+        "id": "29980",
+        "url": "http://kleo4you.com/29980/",
+        "price": "19700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/80/99/29980/images/4827/4827.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/80/99/29980/images/4828/4828.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/80/99/29980/images/4829/4829.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/80/99/29980/images/4830/4830.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/80/99/29980/images/4831/4831.970.PNG"
+        ],
+        "name": "Подвеска \"Астронавт!",
+        "description": {
+          "#cdata-section": "О чем вы думаете, когда смотрите на звездное небо? Мечтаете ли?\nА может вы представляете себя среди звезд, в невесомости?\nХотелось бы вам, чтобы и ваша жизнь была невесомой, полная чудес, приятных и запоминающих моментов?\nТак может пора дополнить свой браслет еще одной подвеской?\nПодвеска \"Астронавт\"-как символ и напоминание чего-то неизведанного и загадочного! \nКак стремление к жизни, полной радости и к своей заветной мечте!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29548",
+        "url": "http://kleo4you.com/29548/",
+        "price": "6900.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/48/95/29548/images/3774/3774.970.jpg",
+        "name": "Подвеска \"Бабочка\"",
+        "description": {
+          "#cdata-section": "\"MEMORIES\""
+        },
+        "weight": "1.450"
+      },
+      {
+        "available": "true",
+        "id": "29997",
+        "url": "http://kleo4you.com/29997/",
+        "price": "19800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/97/99/29997/images/4901/4901.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/99/29997/images/4902/4902.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/99/29997/images/4903/4903.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/99/29997/images/4904/4904.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/97/99/29997/images/4905/4905.970.PNG"
+        ],
+        "name": "Подвеска \"Воздушный шар!\"",
+        "description": {
+          "#cdata-section": "Носите подвеску из стерлингового серебра с воздушным шаром как символ вашей истории путешествий или мечты о далеких местах. \nПодвеска украшена синим хрустальным воздушным шаром на шнурках из бисера и свисающей корзиной. \nНосите его как кулон на цепочке или вдохновленной путешествиями, добавьте его к своему браслету, как напоминание о том, где вы были и куда направляетесь.\nТематика: Путешествия, отпуск, мечты, подарок, дети, семья"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29985",
+        "url": "http://kleo4you.com/29985/",
+        "price": "19600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/85/99/29985/images/4850/4850.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/85/99/29985/images/4851/4851.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/85/99/29985/images/4852/4852.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/85/99/29985/images/4853/4853.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/85/99/29985/images/4854/4854.970.PNG"
+        ],
+        "name": "Подвеска \"Всегда\"",
+        "description": {
+          "#cdata-section": "Магический талисман защиты и вечной любви!\n Патронус &mdash; самый известный и сильный защитный оберег. \nДвойная подвеска из стерлингового серебра украшена камнями кубического циркония и прозрачной эмалью. \nНеобыкновенная подвеска изображает Патронус Северуса Снейпа &mdash; лань на фоне Запретного леса. \nТакой же Патронус был и у Лили Поттер, которую Северус любил всю свою жизнь.\n На обратной стороне подвески гравировка Always \u2013 Всегда. Символ вечной любви, надежды и счастья."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29979",
+        "url": "http://kleo4you.com/29979/",
+        "price": "20800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/79/99/29979/images/4822/4822.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/79/99/29979/images/4823/4823.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/79/99/29979/images/4824/4824.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/79/99/29979/images/4825/4825.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/79/99/29979/images/4826/4826.970.PNG"
+        ],
+        "name": "Подвеска \"Галактика!\"",
+        "description": {
+          "#cdata-section": "Галактика, звезды, Луна, генеалогическое древо, Любовь-все это отражено в одной маленькой подвеске. \nА надпись \" Я люблю тебя до луны и обратно!\", выгравированная на обратной стороне говорит сама за себя.\nПодчеркните семейные традиции и особенные моменты в жизни этой потрясающей подвеской на своем браслете!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29998",
+        "url": "http://kleo4you.com/29998/",
+        "price": "16400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/98/99/29998/images/4906/4906.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/98/99/29998/images/4907/4907.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/98/99/29998/images/4908/4908.970.PNG"
+        ],
+        "name": "Подвеска \"Гантелька!\"",
+        "description": {
+          "#cdata-section": "Вы приверженец спорта и здорового образа жизни? Тогда подвеска \"Гантелька\" точно для вас!\nПокажите свою любовь к фитнесу с помощью подвески \"Гантелька\". \n Эта подвеска, созданная на основе фитнеса и силы, идеально подходит для всех, кто находит радость в физических движениях и упражнениях, будь то в тренажерном зале, дома или на улице.\nТематика: Спорт, ЗОЖ, Профессия, подарок коллеге, день рождение, любой праздник"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29546",
+        "url": "http://kleo4you.com/29546/",
+        "price": "2800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/46/95/29546/images/3772/3772.970.jpg",
+        "name": "Подвеска \"Глаз Фатимы\"",
+        "description": {
+          "#cdata-section": "\"ЙОГА\"Талисман поможет своей обладательнице найти путь к самопознанию, обрести мудрость и заручиться поддержкой высших сил"
+        },
+        "weight": "0.500"
+      },
+      {
+        "available": "true",
+        "id": "29550",
+        "url": "http://kleo4you.com/podveska-delfin/",
+        "price": "5800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/50/95/29550/images/3776/3776.970.jpg",
+        "name": "Подвеска \"Дельфин\"",
+        "description": {
+          "#cdata-section": "\"MEMORIES\""
+        },
+        "weight": "0.960"
+      },
+      {
+        "available": "true",
+        "id": "30007",
+        "url": "http://kleo4you.com/30007/",
+        "price": "17800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/07/00/30007/images/4944/4944.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/07/00/30007/images/4945/4945.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/07/00/30007/images/4946/4946.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/07/00/30007/images/4947/4947.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/07/00/30007/images/4948/4948.970.PNG"
+        ],
+        "name": "Подвеска \"Джедай-мастер\"",
+        "description": {
+          "#cdata-section": "\"Делаешь или не делаешь, здесь нет попыток!\" \nЭта фраза выгравирована на обратной стороне двойной подвески, сделанной из стерлингового серебра.\n Как часто мы произносим себе или слышим подобную фразу от наших учителей, тренеров, менторов.\nИ мы идем вперед, совершенствуемся и развиваемся!\nДополните свой браслет или подарите эту символичную подвеску, как напоминание о пройденном пути или как поддержка в самых лучших начинаниях.\n\nТематика: Спорт, профессиональный праздник, развитие, дети, семья, день рождение, новый год и любое другое событие, талисман"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29993",
+        "url": "http://kleo4you.com/29993/",
+        "price": "19400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/93/99/29993/images/4885/4885.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/93/99/29993/images/4886/4886.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/93/99/29993/images/4887/4887.970.PNG"
+        ],
+        "name": "Подвеска \"Дом там, где сердце!\"",
+        "description": {
+          "#cdata-section": "Носите напоминание о своих корнях с помощью подвески \"Дом там, где сердце!\" \n Эта подвеска, сделанная из стерлингового серебра, украшена диском в форме сердца с гравировкой «Дом там, где сердце» и сверкающим розовым кристаллом в форме домика внутри приподнятого контура дома. На обратной стороне диска - приподнятый домик и гравированное сердце, напоминающее дым, выходящий из трубы. Это приятные и незабываемые воспоминания о  родном доме, где бы вы не были и напоминание о том, что вас всегда ждут в родном доме.\nТематика: Семья, дети, студенчество, путешествия, подарок, день рождение, подарок коллеге, пожелания, любовь"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30009",
+        "url": "http://kleo4you.com/30009/",
+        "price": "18400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/09/00/30009/images/4956/4956.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/09/00/30009/images/4953/4953.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/09/00/30009/images/4954/4954.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/09/00/30009/images/4955/4955.970.PNG"
+        ],
+        "name": "Подвеска \"Друг-Плуто\"",
+        "description": {
+          "#cdata-section": "Наш диснеевский друг Плуто уже надел рождественский колпак и приготовил для вас подарки!\nА вы готовы уже к празднику и к новым чудесам?\nПусть эта милая подвеска станет началом ваших чудес!\n\nТематика: Новый год, семья, рождество, дети"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29983",
+        "url": "http://kleo4you.com/29983/",
+        "price": "21800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/83/99/29983/images/4842/4842.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/83/99/29983/images/4843/4843.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/83/99/29983/images/4844/4844.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/83/99/29983/images/4845/4845.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/83/99/29983/images/4846/4846.970.PNG"
+        ],
+        "name": "Подвеска \"Звезда\"",
+        "description": {
+          "#cdata-section": "Я - Звезда!\nИменно это символизирует подвеска \"Звезда!\"\nДополните свой браслет этой красивой подвеской или подарите близкому человеку, как напоминание о том, кто Ты есть на самом деле!\nНосите его как часть истории вашего стиля и напоминание о том, что нужно стремиться к высшему и мечтать о большом."
+        }
+      },
+      {
+        "available": "true",
+        "id": "28952",
+        "url": "http://kleo4you.com/podveska-perlina-klyuch-k-prosvetleniyu/",
+        "price": "6100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/52/89/28952/images/3746/3746.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/52/89/28952/images/3437/3437.970.gif",
+          "http://kleo4you.com/wa-data/public/shop/products/52/89/28952/images/3438/3438.970.jpg"
+        ],
+        "name": "Подвеска \"Ключ к просветлению\"",
+        "description": {
+          "#cdata-section": "\"ЙОГА\"Ключ к просветлению. Этот шарм выполнен в виде подвески, обозначающей сакральный слог «Ом» \u2014 древнюю мантру, из которой возникло все Мироздание. Выражаясь в голосе и вступая в резонанс с энергетическими потоками Вселенной, мантра настраивает восприятие произносящего ее человека в унисон с этими потоками,наполняет его тело живительной Энергией и ведет его дух по пути к просветлению."
+        }
+      },
+      {
+        "available": "true",
+        "id": "28937",
+        "url": "http://kleo4you.com/28937/",
+        "price": "7200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/37/89/28937/images/3400/3400.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/37/89/28937/images/3399/3399.970.jpg"
+        ],
+        "name": "Подвеска \"Кольцо любви\"",
+        "description": {
+          "#cdata-section": "\"MEMORIES\"Вот она, мечта каждой девушки - очаровательное колечко с сияющим камнем, символизирующее глубину чувства любимого человека.Предназначение этого шарма очевидно: такой талисман наверняка подтолкнет предмет воздыханий к решительному шагу. А если помолвка уже состоялась, колечко станет приятным напоминанием о первых свиданиях и робких надеждах в самом начале совместного пути."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29547",
+        "url": "http://kleo4you.com/29547/",
+        "price": "11300.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/47/95/29547/images/3773/3773.970.jpg",
+        "name": "Подвеска \"Королевская корона\"",
+        "description": {
+          "#cdata-section": "\"MEMORIES\""
+        },
+        "weight": "1.260"
+      },
+      {
+        "available": "true",
+        "id": "29967",
+        "url": "http://kleo4you.com/29967/",
+        "price": "22800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/67/99/29967/images/4761/4761.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/67/99/29967/images/4762/4762.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/67/99/29967/images/4764/4764.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/67/99/29967/images/4765/4765.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/67/99/29967/images/4766/4766.970.PNG"
+        ],
+        "name": "Подвеска \"Красавица и чудовище!\"",
+        "description": {
+          "#cdata-section": "Как важно увидеть в человеке красоту, доброту и достоинство! \nПодвеска из коллекции Дисней \"Красавица и Чудовище!\" и надпись на обратной стороне \"Красота находится внутри!\" говорит нам об этом! \nА также, о том, что в каждая женщина-красавица! Дополните свой браслет этой удивительной подвеской и помните, что красота внутри вас!!!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30001",
+        "url": "http://kleo4you.com/30001/",
+        "price": "16600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/01/00/30001/images/4915/4915.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/01/00/30001/images/4916/4916.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/01/00/30001/images/4917/4917.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/01/00/30001/images/4918/4918.970.PNG"
+        ],
+        "name": "Подвеска \"Кроссовки\"",
+        "description": {
+          "#cdata-section": "Любовь моя-кроссовки!\n Красные, синие, белые, со стразами...кроссовки на любой вкус!\nВот и дизайнеры ювелирных изделий не обошли этот тренд!\nСпециально для модниц и любительниц кроссовок, создана наша подвеска!\nНосите с удовольствие подвеску и вспоминайте о лучших прогулках в любимых кроссовках!\nТематика: Отпуск, спорт, прогулки, ходьба, бег, профессиональный праздник, подарок, путешествия, день рождения"
+        }
+      },
+      {
+        "available": "true",
+        "id": "28961",
+        "url": "http://kleo4you.com/podveska-perlina-legkost-vozdukha/",
+        "price": "9300.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/61/89/28961/images/3482/3482.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/61/89/28961/images/3481/3481.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/61/89/28961/images/3483/3483.970.gif",
+          "http://kleo4you.com/wa-data/public/shop/products/61/89/28961/images/3484/3484.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/61/89/28961/images/3732/3732.970.jpg"
+        ],
+        "name": "Подвеска \"Легкость Воздуха\"",
+        "description": {
+          "#cdata-section": "\"ЗОДИАК\"Подвеска поможет своей обладательнице с легкостью преодолевать все препятствия, будет вносить прозрачную ясность в отношения с близкими и приведет к безоблачному счастью."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29938",
+        "url": "http://kleo4you.com/podveska-ledi-i-brodyaga/",
+        "price": "20400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/38/99/29938/images/4632/4632.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/38/99/29938/images/4633/4633.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/38/99/29938/images/4634/4634.970.jpeg"
+        ],
+        "name": "Подвеска \"Леди и бродяга!\"",
+        "description": {
+          "#cdata-section": "В «Леди и Бродяга» Диснея благовоспитанная Дама и свободный духом Бродяга находят путь друг к другу, несмотря на ряд препятствий. \nСеребряный шарм Диснея из стерлингового серебра выгравирован надписью «Противоположности притягиваются» на диске в форме сердца. Герой и героиня окружены фианитами на передней подвеске. \nПусть вы разные по характеру, разные по темпераменту - ведь противоположности притягиваются.\n Любовь не избирательна, она просто приходит и остается!\nУвеличьте свою коллекцию шармов  с помощью этого шарма ручной работы от Дисней и будьте счастливы!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30011",
+        "url": "http://kleo4you.com/30011/",
+        "price": "20800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/11/00/30011/images/4960/4960.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/11/00/30011/images/4961/4961.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/11/00/30011/images/4962/4962.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/11/00/30011/images/4963/4963.970.PNG"
+        ],
+        "name": "Подвеска \"Любовь и надежда!",
+        "description": {
+          "#cdata-section": "Гравировка на обратной стороне двойной подвески: \"Распространяйте любовь повсюду, куда бы вы не пошли!\"  сделана не просто так.\nСоздатели этой смысловой подвески хотели призвать нас к милосердию, любви, доброте в это непростое время. \nВедь правду говорят, что Любовь спасет мир. \nТак пусть и эта маленькая деталь на вашем браслете напоминает вам о таких значимых чувствах и добавит блеска сияющих камней.\n\nТематика: Подарок, любовь, благотворительность, милосердие, чувства, талисман, семья, дети, день рождение, новый год"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29995",
+        "url": "http://kleo4you.com/29995/",
+        "price": "15400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/95/99/29995/images/4893/4893.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/99/29995/images/4894/4894.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/99/29995/images/4895/4895.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/95/99/29995/images/4896/4896.970.PNG"
+        ],
+        "name": "Подвеска \"Мерцающий дельфин!\"",
+        "description": {
+          "#cdata-section": "Произведите фурор с помощью  подвески в виде  мерцающего дельфина. \nСимволы дипломатии, удачи и мира, дельфины обладают природной способностью наводить мосты с кем угодно. \nПодвеска с дельфином оживает с помощью сверкающего ледяного зеленого кристалла и нанесенной вручную глянцевой синей эмали, которая элегантно плавно переходит в чистое серебро. \nТематика: Отпуск, талисман, подарок, особый случай, подарок коллеге, пожелания, дети"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30013",
+        "url": "http://kleo4you.com/30013/",
+        "price": "17500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/13/00/30013/images/4966/4966.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/13/00/30013/images/4967/4967.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/13/00/30013/images/4968/4968.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/13/00/30013/images/4969/4969.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/13/00/30013/images/4970/4970.970.PNG"
+        ],
+        "name": "Подвеска \"Мой малыш\"",
+        "description": {
+          "#cdata-section": "Рождение малыша-это особенный и незабываемый момент в нашей жизни.\nЗапечатлейте это событие маленькой подвеской, которая соединяет в себе бутылочку, пинетки и сердечко со следами малыша.\nТематика: Рождение ребенка, день матери, подарок, семья, дети,"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30000",
+        "url": "http://kleo4you.com/30000/",
+        "price": "16400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/00/00/30000/images/4912/4912.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/00/00/30000/images/4913/4913.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/00/00/30000/images/4914/4914.970.PNG"
+        ],
+        "name": "Подвеска \"Подкова на удачу\"",
+        "description": {
+          "#cdata-section": "С древних времен люди верили в магические свойства подковы. \nСчитается, что этот талисман способен принести в дом удачу, счастье и богатство.\nА в нашем случае, подвеска \"Подкова на удачу\" наполнит вас прекрасным настроением, позитивом и счастьем. \nВеришь ты или нет в талисманы - это не важно! Главное, что удача любит больше позитивных и благодарных людей!\nТак что...лови счастье в каждом моменте!\nТематика: Подарок, семья, дети, мечты, талисман, фен-шуй, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30014",
+        "url": "http://kleo4you.com/30014/",
+        "price": "19400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/14/00/30014/images/4971/4971.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/14/00/30014/images/4972/4972.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/14/00/30014/images/4973/4973.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/14/00/30014/images/4974/4974.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/14/00/30014/images/4975/4975.970.PNG"
+        ],
+        "name": "Подвеска \"Пора в отпуск\"",
+        "description": {
+          "#cdata-section": "Пора собирать чемоданы и отпраздновать знаменательное событие в теплых странах! \nИли просто отдохнуть, помечтать, побыть наедине с любимым человеком или наедине с собой!\nДобавьте этот шарм  в свою коллекцию как обещание спланировать будущие приключения или подарить его своей лучшей подруге, \nпутешествующей по миру.\n\nТематика: отпуск, путешествие, дружба, мечты и цели"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29973",
+        "url": "http://kleo4you.com/29973/",
+        "price": "19200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/73/99/29973/images/4794/4794.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/73/99/29973/images/4795/4795.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/73/99/29973/images/4796/4796.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/73/99/29973/images/4797/4797.970.PNG"
+        ],
+        "name": "Подвеска \"Преображение золушки!\"",
+        "description": {
+          "#cdata-section": "Пусть ваша жизнь в новогоднюю ночь станет настоящим волшебством! \nНачалом новых преображений во всех сферах жизни вместе с чудесной подвеской \"Преображение золушки!\""
+        }
+      },
+      {
+        "available": "true",
+        "id": "30008",
+        "url": "http://kleo4you.com/30008/",
+        "price": "20600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/08/00/30008/images/4949/4949.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/08/00/30008/images/4950/4950.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/08/00/30008/images/4951/4951.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/08/00/30008/images/4952/4952.970.PNG"
+        ],
+        "name": "Подвеска \"Принцесса Лея\"",
+        "description": {
+          "#cdata-section": "Направьте своего внутреннего бунтаря с помощью двойной подвески с изображением принцессы Леи из Звездных войн. \nПринцесса Лея всегда борется за то, во что верит и эта подвеска  напомнит вам о том же, а также напомнит всем о вашей индивидуальности.\n\nГравировка на обратной стороне подвески «Не связывайся с этой принцессой» говорит о том, что не стоит стоять у вас на пути к вашим целям и мечтам!\n\n\nТематика:  Подарок, дети, мечты и цели, семья, талисман, тренд, день рождение, новый год и любое другое событие"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29968",
+        "url": "http://kleo4you.com/29968/",
+        "price": "21800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/68/99/29968/images/4767/4767.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/68/99/29968/images/4769/4769.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/68/99/29968/images/4770/4770.970.PNG"
+        ],
+        "name": "Подвеска \"Путеводная звезда!\"",
+        "description": {
+          "#cdata-section": "Подвеска \"Путеводная Звезда!\" говорит сама за себя! \nДополните свой браслет этой серебряной и милой подвеской и пусть голубой кристалл освящает ваш путь!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30020",
+        "url": "http://kleo4you.com/30020/",
+        "price": "16400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/20/00/30020/images/4995/4995.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/20/00/30020/images/4996/4996.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/20/00/30020/images/4997/4997.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/20/00/30020/images/4998/4998.970.jpeg"
+        ],
+        "name": "Подвеска \"Родственная душа!\"",
+        "description": {
+          "#cdata-section": "У вас есть родственная душа, с которой вы связаны?\nТогда эта подвеска для вас! \nПодарите своему близкой подруге или любимой девушке  эту замечательную подвеску и покажите ей, как она дорога для вас!\nНа одной стороне гравировка: \"Навеки и навсегда\", а с другой стороны: \"Родственная душа\"\n\nТематика: Дружба, любовь, семья, день рождение, новый год, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30038",
+        "url": "http://kleo4you.com/podveska-rusalochka-ariel/",
+        "price": "15600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/38/00/30038/images/5032/5032.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/38/00/30038/images/5033/5033.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/38/00/30038/images/5034/5034.970.jpeg"
+        ],
+        "name": "Подвеска \"Русалочка Ариэль\"",
+        "description": {
+          "#cdata-section": "Русалочка Ариэль - персонаж диснеевского мультфильма с независимым характером, с добрым сердцем и любящая людей.\nА мы хотим, чтобы вы были счастливыми, стойкими и верили в чудеса. Ведь скоро Рождество и Новый год!\nА милая подвеска \"Русалочка Ариэль\", как минимум, поднимет вам настроение и будет напоминанием, что мечтать не вредно и сказка может стать явью!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29969",
+        "url": "http://kleo4you.com/29969/",
+        "price": "19700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/69/99/29969/images/4771/4771.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/69/99/29969/images/4772/4772.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/69/99/29969/images/4773/4773.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/69/99/29969/images/4774/4774.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/69/99/29969/images/4775/4775.970.PNG"
+        ],
+        "name": "Подвеска \"С днем рождения!\"",
+        "description": {
+          "#cdata-section": "Подвеска \"С днем рождения!\" выполнена из серебра 925 пробы.\nДень рождение особенный день! И независимо от возраста все мы любим чудеса и подарки! Дополните свой браслет этой милой подвеской и пусть он напоминает вам о детстве и наполняет вас прекрасным настроением."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29930",
+        "url": "http://kleo4you.com/podveska-s-dnem-rozhdeniya-malysh/",
+        "price": "15600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/30/99/29930/images/4619/4619.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/30/99/29930/images/4620/4620.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/30/99/29930/images/4621/4621.970.jpeg"
+        ],
+        "name": "Подвеска \"С Днем рождения, малыш!\"",
+        "description": {
+          "#cdata-section": "Рождение ребенка - это особенный и самый замечательный момент в жизни молодых родителей. \nЗапечатлите этот момент с помощью специальной подвески из стерлингового серебра. \nНа передней подвеске подвески изображен аист, несущий узелок среди звездного ночного неба, и украшенный сверкающим прозрачным фианитом. \nНа обратной стороне  выгравирована надпись «Мерцай, мерцай, маленькая звездочка, знаешь, как тебя любят?». \nЭта подвеска станет прекрасным подарком молодым родителям."
+        }
+      },
+      {
+        "available": "true",
+        "id": "30030",
+        "url": "http://kleo4you.com/30030/",
+        "price": "17700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/30/00/30030/images/5018/5018.970.jpg",
+        "name": "Подвеска \"Санта с подарками!\"",
+        "description": {
+          "#cdata-section": "Рождество и Новый Год все ближе и ближе!\nПора закупать подарки!\nДополните свой браслет подвеской \"Санта с подарками\" как знак приближающих чудес и напоминания о незабываемом моменте!\n\nТематика: Новый год, Рождество, семья, дети, любовь"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30015",
+        "url": "http://kleo4you.com/30015/",
+        "price": "19400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/15/00/30015/images/4976/4976.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/15/00/30015/images/4978/4978.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/15/00/30015/images/4979/4979.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/15/00/30015/images/4980/4980.970.PNG"
+        ],
+        "name": "Подвеска \"Светлячок!\"",
+        "description": {
+          "#cdata-section": "Осветите свой образ подвеской-кулоном \"Светлячок\" \n На пластинке написано: «Ты освещаешь мою жизнь». \nЭтот выгравированная подвеска-кулон станет прекрасным подарком для любимого человека или стильным проявлением любви к себе, напоминая вам о свете, который вы несете внутри.\n\n\nТематика: Любовь, семья, дети, день рождение, новый год и любой другой праздник или событие"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30024",
+        "url": "http://kleo4you.com/30024/",
+        "price": "15600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/24/00/30024/images/5005/5005.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/24/00/30024/images/5002/5002.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/24/00/30024/images/5003/5003.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/24/00/30024/images/5004/5004.970.jpeg"
+        ],
+        "name": "Подвеска \"Семья\"",
+        "description": {
+          "#cdata-section": "Подвеска \"Семья\" является  символом семейных уз, демонстрируя любовь и традиции, которые составляют семью, какую бы форму она ни принимала. Это подвеска в форме двух сердец и выгравированной, на обратной стороне, надписью «Любовь создает семью». \nДополните свой браслет или подарите его, чтобы передать свои чувства и свою любовь.\n\n\nТематика: семья, любовь, дети, подарок на день рождение, новый год, день матери, день Святого Валентина, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29994",
+        "url": "http://kleo4you.com/29994/",
+        "price": "18700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/94/99/29994/images/4888/4888.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/94/99/29994/images/4889/4889.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/94/99/29994/images/4890/4890.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/94/99/29994/images/4891/4891.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/94/99/29994/images/4892/4892.970.PNG"
+        ],
+        "name": "Подвеска \"Сияющая Рыбка!\"",
+        "description": {
+          "#cdata-section": "В Китае рыба символизирует богатство и достаток.\nНа Востоке рыба стала символом супружеского счастья и гармонии.\nПрактически во всех культурах рыбы-это символ удачи, богатства и процветания.\nА в нашем случае, еще радость, чистота чувств и гибкость. \nВедь именно эти качества в большей степени помогут создать гармонию и счастье.\nТематика: Любовь, семья, оберег, талисман, особый случай, партнерство, подарок коллеге, любимой, подруге, день рождение, новый год, любой праздник, отпуск,природа"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29935",
+        "url": "http://kleo4you.com/29935/",
+        "price": "16400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/35/99/29935/images/4629/4629.970.jpg",
+        "name": "Подвеска \"Так много причин быть счастливым!\"",
+        "description": {
+          "#cdata-section": "Все вокруг нас очень нестабильно. Мы на это не можем повлиять. \nНо мы можем быть быть счастливы в любой ситуации и для этого много причин!\nНосите подвеску \"Так много причин быть счастливым!\" из стерлингового серебра на своем браслете как напоминание, \nчто жизнь прекрасна и будьте счастливы каждую минуту!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30022",
+        "url": "http://kleo4you.com/podveska-tiara-printsessy/",
+        "price": "13200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/22/00/30022/images/5000/5000.970.jpg",
+        "name": "Подвеска \"Тиара принцессы\"",
+        "description": {
+          "#cdata-section": "Любая девушка мечтает быть принцессой-любимой, желанной, самой дорогой!\nПодарите подвеску \"Тиара принцессы\" своей девушке, подруге, дочери и пусть каждая из них ощущает себя самой очаровательной и необыкновенной!\n\nТематика: семья, любовь, дети, день рождение, новый год, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29987",
+        "url": "http://kleo4you.com/29987/",
+        "price": "15200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/87/99/29987/images/4859/4859.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/87/99/29987/images/4860/4860.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/87/99/29987/images/4861/4861.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/87/99/29987/images/4862/4862.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/87/99/29987/images/4863/4863.970.PNG"
+        ],
+        "name": "Подвеска \"Я всегда буду рядом\"",
+        "description": {
+          "#cdata-section": "\"Я всегда буду там, где ты!\"\nКаждый хочет слышать эту фразу от близкого и любимого человека!\nНе нужно слов, а просто подарите эту милую подвеску как символ любви, поддержки и защиты!\nТематика: семья, любовь, дети, дружба."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29984",
+        "url": "http://kleo4you.com/29984/",
+        "price": "16800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/84/99/29984/images/4847/4847.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/84/99/29984/images/4848/4848.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/84/99/29984/images/4849/4849.970.PNG"
+        ],
+        "name": "Подвеска \"Яблоко Белоснежки!\"",
+        "description": {
+          "#cdata-section": "Придайте своему стилю блеск принцессы с подвеской \"Яблоко Белоснежки!\"\nКрасивая история королевской особы, ее характер, любовь и доброта-все это вдохновило дизайнеров на создание этого кулона!\nДанная подвеска подойдет на браслет или как кулон на шею! Выбор за вами! В любом случае, вы будете блистать!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29711",
+        "url": "http://kleo4you.com/podveska-serdtse-printsessy/",
+        "price": "16700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/11/97/29711/images/4148/4148.970.jpg",
+        "name": "Подвеска Сердце принцессы"
+      },
+      {
+        "available": "true",
+        "id": "29866",
+        "url": "http://kleo4you.com/podveska-soedinennye-serdtsa/",
+        "price": "15200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/66/98/29866/images/4395/4395.970.jpg",
+        "name": "Подвеска Соединенные сердца"
+      },
+      {
+        "available": "true",
+        "id": "29989",
+        "url": "http://kleo4you.com/29989/",
+        "price": "15600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/89/99/29989/images/4869/4869.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/99/29989/images/4870/4870.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/99/29989/images/4871/4871.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/99/29989/images/4872/4872.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/89/99/29989/images/4873/4873.970.PNG"
+        ],
+        "name": "Подвеска-медальон в виде сердца",
+        "description": {
+          "#cdata-section": "В открывающемся подвеске-медальоне в форме сердца стиль встречает чувства. \nЭта подвеска, сделанная из стерлингового серебра, украшена сердцем с прозрачным фианитом в центре. \nСердце открывается, чтобы явить выгравированное сообщение «Всегда будь в моем сердце».\n Эта подвеска будет элегантной, проникновенной и значимой независимо от того, с чем вы его носите.\nТематика: Любовь, семья"
+        }
+      },
+      {
+        "available": "true",
+        "id": "28936",
+        "url": "http://kleo4you.com/28936/",
+        "price": "8100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/36/89/28936/images/3391/3391.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/36/89/28936/images/3392/3392.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/36/89/28936/images/3398/3398.970.jpg"
+        ],
+        "name": "Подвеска-шарм \"Amore\"",
+        "description": {
+          "#cdata-section": "\"MEMORIES\"Талисман приблизит судьбоносную встречу с долгожданной половинкой,а если в жизни обладательницы шарма уже есть близкий человек \u2014 поможет обновить привычные отношения."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29929",
+        "url": "http://kleo4you.com/29929/",
+        "price": "23700.00",
+        "currencyId": "KZT",
+        "categoryId": "1838",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/29/99/29929/images/4618/4618.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/29/99/29929/images/4735/4735.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/29/99/29929/images/4736/4736.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/29/99/29929/images/4737/4737.970.PNG"
+        ],
+        "name": "Серебряная основа для шармов с замком в виде цилиндра",
+        "description": {
+          "#cdata-section": "Серебряная основа для шармов с замочком в виде цилиндра-это обновленный дизайн классической основы, всеми любимого браслета с замочком в виде бочонка! Более четкие линии и лаконичность в более современном стиле."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29965",
+        "url": "http://kleo4you.com/29965/",
+        "price": "22700.00",
+        "currencyId": "KZT",
+        "categoryId": "1838",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/65/99/29965/images/4756/4756.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/65/99/29965/images/4757/4757.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/65/99/29965/images/4758/4758.970.PNG"
+        ],
+        "name": "Серебряный браслет с замочком в виде бочонка",
+        "description": {
+          "#cdata-section": "Классический и многими полюбивший серебряный браслет с замочком в виде бочонка. \nНачните собирать свою коллекцию  шармов, которые будут напоминать вам об особенных моментах в вашей жизни!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29962",
+        "url": "http://kleo4you.com/29962/",
+        "price": "22700.00",
+        "currencyId": "KZT",
+        "categoryId": "1838",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/62/99/29962/images/4746/4746.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/62/99/29962/images/4747/4747.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/62/99/29962/images/4748/4748.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/62/99/29962/images/4745/4745.970.PNG"
+        ],
+        "name": "Серебряный браслет с замочком в виде сердца",
+        "description": {
+          "#cdata-section": "Серебряный браслет с замочком в виде сердца как символ любви, взаимоуважения, доброты! \nДополните его символичными шармами, которые наполнят вас лучшими моментами в вашей жизни!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29959",
+        "url": "http://kleo4you.com/29959/",
+        "price": "27900.00",
+        "currencyId": "KZT",
+        "categoryId": "1838",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/59/99/29959/images/4738/4738.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/59/99/29959/images/4739/4739.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/59/99/29959/images/4740/4740.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/59/99/29959/images/4741/4741.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/59/99/29959/images/4742/4742.970.PNG"
+        ],
+        "name": "Серебряный браслет со сверкающим замочком",
+        "description": {
+          "#cdata-section": "Серебряный браслет со сверкающим замочком будет прекрасным дополнением вечернего образа, деловых мероприятий. \nОтдельный браслет или вместе с любимыми сверкающими шармами? Выбор только за вами!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29990",
+        "url": "http://kleo4you.com/29990/",
+        "price": "12400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/90/99/29990/images/4874/4874.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/90/99/29990/images/4875/4875.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/90/99/29990/images/4876/4876.970.PNG"
+        ],
+        "name": "Шарм \" Благодарное сердце\"",
+        "description": {
+          "#cdata-section": "Почувствуйте благодарность с помощью талисмана \"Благодарное сердце\".\n Этот шарм в форме сердца, сделанный из стерлингового серебра, украшен вырезами в виде звезд и деталями разных размеров, а две звезды сверкают синими кристаллами.\n На лицевой стороне выгравировано слово «Благодарный», а на оборотной стороне - слово «Благословенный». \nЭтот шарм не только придаст любому образу изящный и сверкающий вид, но и станет прекрасным напоминанием обо всех благословениях в вашей жизни.\nТематика: Любовь, семья, духовность, благодарность, день рождение, признание, дружба, пожелания."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29971",
+        "url": "http://kleo4you.com/29971/",
+        "price": "19400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/71/99/29971/images/4782/4782.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/71/99/29971/images/4783/4783.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/71/99/29971/images/4784/4784.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/71/99/29971/images/4785/4785.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/71/99/29971/images/4786/4786.970.PNG"
+        ],
+        "name": "Шарм \" Леди!\""
+      },
+      {
+        "available": "true",
+        "id": "30005",
+        "url": "http://kleo4you.com/30005/",
+        "price": "16200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/05/00/30005/images/4936/4936.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/05/00/30005/images/4937/4937.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/05/00/30005/images/4938/4938.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/05/00/30005/images/4939/4939.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/05/00/30005/images/4940/4940.970.PNG"
+        ],
+        "name": "Шарм \" Ловец снов\"",
+        "description": {
+          "#cdata-section": "Частенько хорошие идеи и подсказки приходят во сне. \nПоймайте свои лучшие и яркие сны с помощью шарма \"Ловец снов\"\nА также, говорят, что ловец снов защищает и отгоняет злых духов! Верить или не верить? \nВ любом случае, дополнив свой браслетик этим красивым и ажурным шармом, вы привлечете больше восхитительных взглядов!\n\nТематика: подарок, семья, дети, дружбы, день рождение, новый год и любой другой праздник, оберег"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30004",
+        "url": "http://kleo4you.com/30004/",
+        "price": "12600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/04/00/30004/images/4931/4931.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/04/00/30004/images/4932/4932.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/04/00/30004/images/4933/4933.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/04/00/30004/images/4934/4934.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/04/00/30004/images/4935/4935.970.PNG"
+        ],
+        "name": "Шарм \" Мое сердце!\"",
+        "description": {
+          "#cdata-section": "Любовь, страсть, незабываемые чувства!\nЛюбая девушка мечтает о красивой чистой и страстной любви!\nПодарите шарм \"Мое сердце!\" своей любимой девушке, как знак вашей любви, ваших чистых отношений, поддержки и защиты!\n\nТематика: Любовь, семья, особый случай."
+        }
+      },
+      {
+        "available": "true",
+        "id": "30037",
+        "url": "http://kleo4you.com/30037/",
+        "price": "18200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/37/00/30037/images/5027/5027.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/37/00/30037/images/5028/5028.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/37/00/30037/images/5029/5029.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/37/00/30037/images/5030/5030.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/37/00/30037/images/5031/5031.970.jpeg"
+        ],
+        "name": "Шарм \"Ажурное семейное древо\"",
+        "description": {
+          "#cdata-section": "Сохраняйте семейные  корни и традиции с помощью ажурного шарма с фамильным деревом.\n Генеалогическое древо символизирует то, что вы остаетесь верным себе, соединенными неразрывными узами, связывающими семью. \nАжурный шарм украшен мотивом семейного дерева и сверкающим прозрачным фианитом. \nУ основания есть маленькое сердечко, чтобы подчеркнуть любовь к вашей семье. \nНосите это украшение как напоминание о близких вам людях или подарите кому-то важному для вас."
+        }
+      },
+      {
+        "available": "true",
+        "id": "28991",
+        "url": "http://kleo4you.com/sharm-perlina-vlyublennaya-parochka/",
+        "price": "8500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/91/89/28991/images/3725/3725.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/91/89/28991/images/3561/3561.970.gif",
+          "http://kleo4you.com/wa-data/public/shop/products/91/89/28991/images/3562/3562.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/91/89/28991/images/3563/3563.970.png"
+        ],
+        "name": "Шарм \"Влюбленная парочка\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"КАРНАВАЛ В ВЕНЕЦИИ\"Такие трогательные парочки всегда и у всех вызывали умиление, а их изображения давно уже стали символом искренней и чистой Любви. Шарм с очаровательными влюбленными не только настроит обладательницу на романтический лад, но и привлечет в ее жизнь большое и светлое чувство."
+        }
+      },
+      {
+        "available": "true",
+        "id": "30029",
+        "url": "http://kleo4you.com/30029/",
+        "price": "20800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/29/00/30029/images/5017/5017.970.jpg",
+        "name": "Шарм \"Возвышенные звезды\"",
+        "description": {
+          "#cdata-section": "Подчеркните свой браслет блеском ночного неба и сиянием звезд вместе с шармом \"Возвышенные звезды\"\nИли начните создавать свою историю незабываемых моментов в вашей жизни!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29526",
+        "url": "http://kleo4you.com/sharm-zvezdnaya-pyl/",
+        "price": "11200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/26/95/29526/images/3699/3699.970.jpg",
+        "name": "Шарм \"Звездная пыль\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"ЗОДИАК\"Звездная пыль-нечаянный подарок обитательниц ночного неба. Когда они веселятся и смеются, пыль осыпается перламутровым дождем. Шармик поможет найти легкий путь к Счастью и обрести Любовь."
+        },
+        "weight": "2.120"
+      },
+      {
+        "available": "true",
+        "id": "29977",
+        "url": "http://kleo4you.com/29977/",
+        "price": "20800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/77/99/29977/images/4812/4812.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/77/99/29977/images/4813/4813.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/77/99/29977/images/4814/4814.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/77/99/29977/images/4815/4815.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/77/99/29977/images/4816/4816.970.PNG"
+        ],
+        "name": "Шарм \"Звезды и полумесяц\"",
+        "description": {
+          "#cdata-section": "Тянись к звездам! \nШарм \"Звезды и полумесяц\" говорит именно об этом. \nКосмическое очарование шарма, с надписью \"Большая мечта!\" как напоминание, что нужно мечтать и тянуться к звездам!\nПовод встретить Новый год с мечт и новых планов! Правда?"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30021",
+        "url": "http://kleo4you.com/sharm-in-i-yan/",
+        "price": "14300.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/21/00/30021/images/4999/4999.970.jpg",
+        "name": "Шарм \"Инь и Янь!",
+        "description": {
+          "#cdata-section": "Инь и Янь - две противоположности, которые притягивают друг друга и объединяются в одно целое. \nНе будем углубляться  в китайскую философию, а только отметим, что  каждый человек объединяет в себе инь и янь. \nТемное и светлое, горячее и холодное, мы можем быть как в хорошем настроении, так и в плохом, добрая девушка полюбила плохиша, точно также, как и красавец полюбил не очень симпатичную девушку (по мнению окружающих). \nТаких противоположностей очень много! Все меняется и мы не постоянны! \nИ радует то, что все, что нас окружает, какие мы можем быть разными-все это едино!\nДополните браслет этим замечательным шармом, как напоминание о том, что все в этом мире меняется и всегда после темной полосы наступает светлая. \n\nТематика: Подарок, талисман, повседневный образ, семья, дружба, фен-шуй, йога"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29540",
+        "url": "http://kleo4you.com/29540/",
+        "price": "8700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/40/95/29540/images/3762/3762.970.jpg",
+        "name": "Шарм \"Комета\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"ЗОДИАК\"Вы сами можете дать название этой комете, комете,которая принесет в вашу жизнь Удачу и Успех."
+        },
+        "weight": "2.150"
+      },
+      {
+        "available": "true",
+        "id": "30023",
+        "url": "http://kleo4you.com/sharm-korona/",
+        "price": "11200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/23/00/30023/images/5001/5001.970.png",
+        "name": "Шарм \"Корона\"",
+        "description": {
+          "#cdata-section": "\"Ты моя Королева!\"\nИменно это значение заложено в шарме \"Корона\".\nДополните свой браслет или подарите родственной душе  этот замечательный шарм, как напоминание о том, что Вы-Королева! \nИ вы достойны самого лучшего!\n\nТематика: Семья, любовь, дети, подарок на день рождение, новый год, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "28942",
+        "url": "http://kleo4you.com/28942/",
+        "price": "8100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/42/89/28942/images/3714/3714.970.jpg",
+        "name": "Шарм \"Котёнок\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"КАРНАВАЛ В ВЕНЕЦИИ\"Игривый котенок с радостью поселится на браслете, крепко-накрепко уцепившись в него маленькими коготками. Пушистый друг не только будет при каждом взгляде на него радовать свою хозяйку и повышать ей настроение, но и поделится с ней беззаботным отношением к жизни, способностью легко решать любые проблемы и без труда находить повод хорошенько повеселиться."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29544",
+        "url": "http://kleo4you.com/29544/",
+        "price": "9700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/44/95/29544/images/3767/3767.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/44/95/29544/images/3766/3766.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/44/95/29544/images/3768/3768.970.jpg"
+        ],
+        "name": "Шарм \"Кошечка\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"MEMORIES\""
+        },
+        "weight": "2.730"
+      },
+      {
+        "available": "true",
+        "id": "30041",
+        "url": "http://kleo4you.com/sharm-semya/",
+        "price": "17800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/41/00/30041/images/5037/5037.970.jpeg",
+        "name": "Шарм \"Крепкая Семья\"",
+        "description": {
+          "#cdata-section": "Шарм \"Крепкая Семья\" - раритетный шарм, давно снятый с производства, но очень многими любимый.\nДля любителей изделий из серебра, без камней.\nДополните свой браслет эти замечательным шармом, как приятное воспоминание семейных традиций."
+        }
+      },
+      {
+        "available": "true",
+        "id": "30010",
+        "url": "http://kleo4you.com/30010/",
+        "price": "16200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/10/00/30010/images/4957/4957.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/10/00/30010/images/4958/4958.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/10/00/30010/images/4959/4959.970.PNG"
+        ],
+        "name": "Шарм \"Летающий Пиппо!\"",
+        "description": {
+          "#cdata-section": "Летающий поросенок Пиппо, олицетворяет веру в то, что все, что вам нужно сделать - это довериться себе, чтобы воплотить в жизнь свои самые смелые мечты. \nОчаровательный дизайн шарма включает в себя пару маленьких крыльев и симпатичную огромную голову, чтобы все знали, что мечтать о большом всегда можно.\nДополните свой браслетик этим милым шармиком и не забывайте, что все возможно и вы уникальны!\n\n\nТематика: Подарок, семья, дети, день рождение, новый год и любое другое событие, талисман"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29991",
+        "url": "http://kleo4you.com/29991/",
+        "price": "16400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/91/99/29991/images/4877/4877.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/91/99/29991/images/4878/4878.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/91/99/29991/images/4879/4879.970.PNG"
+        ],
+        "name": "Шарм \"Лист\"",
+        "description": {
+          "#cdata-section": "Лист - символ надежды, поэтому носите этот оберег как напоминание о ваших будущих мечтах и радостных моментах, проведенных на природе. \nЕго насыщенные цвета добавят яркости вашему стилю.\nТематика: Отпуск, природа, семья, талисман, оберег"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30031",
+        "url": "http://kleo4you.com/30031/",
+        "price": "16200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/31/00/30031/images/5019/5019.970.jpg",
+        "name": "Шарм \"Ловец снов!\"",
+        "description": {
+          "#cdata-section": "Частенько хорошие идеи и подсказки приходят во сне.\nПоймайте свои лучшие и яркие сны с помощью шарма \"Ловец снов\"\nА также, говорят, что ловец снов защищает и отгоняет злых духов! Верить или не верить? \nВ любом случае, дополнив свой браслетик этим красивым и ажурным шармом, вы привлечете больше восхитительных взглядов!\nТематика: подарок, семья, дети, дружбы, день рождение, новый год и любой другой праздник, оберег"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30016",
+        "url": "http://kleo4you.com/30016/",
+        "price": "15100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/16/00/30016/images/4981/4981.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/16/00/30016/images/4982/4982.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/16/00/30016/images/4983/4983.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/16/00/30016/images/4984/4984.970.PNG"
+        ],
+        "name": "Шарм \"Лучшая мама\"",
+        "description": {
+          "#cdata-section": "\"Удача, что у меня есть ты!\" - это гравировка на шарме в виде сердца, посвящена всем мамочкам.\nТакое маленькое сердечко, а смысл очень глубокий. Кто как не мама и любящая жена хранит очаг в доме, создает уют и поддерживает нас в трудные времена.\nПодарите этот милый и очень емкий по смыслу шарм самому родному человеку: Маме! И проявите ей свое почтение и признательность!\nИли дополните свой браслет, как напоминание, что роднее мамы никого нет!\nТематика: Подарок, семья, любовь, день матери, день рождение, новый год, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29988",
+        "url": "http://kleo4you.com/29988/",
+        "price": "16400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/88/99/29988/images/4864/4864.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/88/99/29988/images/4865/4865.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/88/99/29988/images/4866/4866.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/88/99/29988/images/4867/4867.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/88/99/29988/images/4868/4868.970.PNG"
+        ],
+        "name": "Шарм \"Любимый котенок\"",
+        "description": {
+          "#cdata-section": "Дизайнеры позаботились и о любительницах братьев наших меньших! \nСвоего любимого котенка вы конечно же не сможете брать везде с собой, а вот шармик - то, что надо!\nДополните свой браслетик этой очаровательной бусиной и всегда вспоминайте лучшие моменты, связанные с вашим питомцем!\nТематика: Любимые питомцы, пожелания, фильмы, мультяшки, детство, день рождение."
+        }
+      },
+      {
+        "available": "true",
+        "id": "30018",
+        "url": "http://kleo4you.com/30018/",
+        "price": "15200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/18/00/30018/images/4989/4989.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/18/00/30018/images/4990/4990.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/18/00/30018/images/4991/4991.970.PNG"
+        ],
+        "name": "Шарм \"Маска\"",
+        "description": {
+          "#cdata-section": "Вся жизнь наша-сцена! Какую маску вы предпочитаете носить?\nНет однозначного ответа! Их много! \nРадость, грусть, восхищение, гнев...сколько эмоций и чувств мы испытываем в течении дня.\nВ шарме \"Маска\" показаны две стороны жизни и театрального искусства - трагедия и комедия! \nГлядя на нее не стоит забывать, что жизнь-это череда\nрадостей и грусти. И все проходящее!\n\nТематика: повседневный образ, театр, искусство, профессия, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30012",
+        "url": "http://kleo4you.com/30012/",
+        "price": "16500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/12/00/30012/images/4964/4964.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/12/00/30012/images/4965/4965.970.PNG"
+        ],
+        "name": "Шарм \"Мечты\"",
+        "description": {
+          "#cdata-section": "Всем нам нужно напоминание о том, что мечты сбываются. \nЭтот шарм в  форме сердца, на котором выгравирована надпись «Мечта - это желание, которое загадывает ваше сердце». \n Носите и поделитесь сентиментальным стилем, чтобы передать его значение или подарите его кому-то особенному, чтобы показать ему, что вы его знаете.\nТематика: любовь, семья, дети, день рождение, новый год, дружба, подарок к любому событию"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30042",
+        "url": "http://kleo4you.com/30042/",
+        "price": "12100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/42/00/30042/images/5038/5038.970.jpeg",
+        "name": "Шарм \"Мешок денег\"",
+        "description": {
+          "#cdata-section": "Шарм \"Мешочек денег\" - раритетный шармик, давно снятый из производства, но очень многими любимый.\nДля любителей изделий из серебра, без камней.\nДополните свой браслет эти замечательным шармом или подарите его, как приятный талисман богатства."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29524",
+        "url": "http://kleo4you.com/29524/",
+        "price": "9500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/24/95/29524/images/3697/3697.970.jpg",
+        "name": "Шарм \"Мешочек удачи\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"КАРНАВАЛ В ВЕНЕЦИИ\"Новогодний мешочек удачи. Талисман позволит с легкостью преодолевать любые трудности и ловко использовать возможности,которые предоставляет судьба.Подходит на браслеты других брендов."
+        },
+        "weight": "2.540"
+      },
+      {
+        "available": "true",
+        "id": "29545",
+        "url": "http://kleo4you.com/29545/",
+        "price": "7600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/45/95/29545/images/3769/3769.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/45/95/29545/images/3770/3770.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/45/95/29545/images/3771/3771.970.jpg"
+        ],
+        "name": "Шарм \"Мишутка\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"MEMORIES\""
+        },
+        "weight": "1.950"
+      },
+      {
+        "available": "true",
+        "id": "30002",
+        "url": "http://kleo4you.com/30002/",
+        "price": "16100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/02/00/30002/images/4919/4919.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/02/00/30002/images/4920/4920.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/02/00/30002/images/4921/4921.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/02/00/30002/images/4922/4922.970.PNG"
+        ],
+        "name": "Шарм \"Морской мир!\"",
+        "description": {
+          "#cdata-section": "Морской мир, полный таинств и загадок! Такой притягательный мир, куда хочется возвращаться каждый раз!\nДополните свой браслет шармом \"Морской мир\" как напоминание о лучшем отпуске у моря. \nА может вы занимаетесь дайвингом или только хотите?\nТогда этот шарм будет напоминать вам о вашей мечте!\nТематика: Спорт, путешествие, отпуск, мечты, дайвинг, профессиональный праздник, подарок коллеге, мечты, день рождение"
+        }
+      },
+      {
+        "available": "true",
+        "id": "28996",
+        "url": "http://kleo4you.com/sharm-perlina-nartsiss/",
+        "price": "8900.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/96/89/28996/images/3729/3729.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/96/89/28996/images/3591/3591.970.gif",
+          "http://kleo4you.com/wa-data/public/shop/products/96/89/28996/images/3592/3592.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/96/89/28996/images/3593/3593.970.png"
+        ],
+        "name": "Шарм \"Нарцисс\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"ВАЛЬС ЦВЕТОВ\"В Древнем Риме Нарцисс считался символом Победы, и венком из этих цветов венчали головы бесстрашных героев.Шарм, украшенный нежными лепестками, будет помогать своей владелице одерживать каждый день маленькие и большие Победы."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29999",
+        "url": "http://kleo4you.com/29999/",
+        "price": "15200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/99/99/29999/images/4909/4909.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/99/99/29999/images/4910/4910.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/99/99/29999/images/4911/4911.970.PNG"
+        ],
+        "name": "Шарм \"Очаровашка-гриб\"",
+        "description": {
+          "#cdata-section": "Грибы - символ возрождения.\nВ предверии нового года самое время подумать о новых планах, о развитии и помечтать.\n Дополните свой браслет шармом \"Очаровашка-гриб\"  как напоминание о начале новой жизни, новом сезоне и радостных моментах в вашей жизни!\nТематика: Семья, дети, мечты, подарок, праздники, пожелания, нейтральный подарок, талисман"
+        }
+      },
+      {
+        "available": "true",
+        "id": "28946",
+        "url": "http://kleo4you.com/podveska-perlina-pavline-pero/",
+        "price": "11500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/46/89/28946/images/3418/3418.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/46/89/28946/images/3709/3709.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/46/89/28946/images/3414/3414.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/46/89/28946/images/3416/3416.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/46/89/28946/images/3417/3417.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/46/89/28946/images/3419/3419.970.png"
+        ],
+        "name": "Шарм \"Павлинье перо\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"ЭЛЬФИЙСКИЙ ЛЕС\"Павлин \u2014 удивительная птица. Никто не видит ее настоящей красоты, пока она не решит ее продемонстрировать сама. Распущенный павлиний хвост привлекает к себе все взгляды вокруг. Своей обладательнице эта перлина поможет в нужное время стать самой неотразимой и оказаться в центре внимания."
+        }
+      },
+      {
+        "available": "true",
+        "id": "30025",
+        "url": "http://kleo4you.com/30025/",
+        "price": "14500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/25/00/30025/images/5006/5006.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/25/00/30025/images/5007/5007.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/25/00/30025/images/5008/5008.970.jpg"
+        ],
+        "name": "Шарм \"Планета Любви\"",
+        "description": {
+          "#cdata-section": "Планета любви - как романтично!!!\nА ведь это не там где-то далеко, далеко, а именно внутри нас, внутри нашей семьи, в дружбе, которыми мы дорожим!\nТак пусть этот милый шарм наполнит вас счастьем, любовью и будет напоминанием о том, что любовь внутри вас!\n\n\nТематика: Любовь, семья, дети, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30026",
+        "url": "http://kleo4you.com/30026/",
+        "price": "13600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/26/00/30026/images/5009/5009.970.jpg",
+        "name": "Шарм \"Планета Любви\"",
+        "description": {
+          "#cdata-section": "Планета любви - как романтично!!!\nА ведь это не там где-то далеко, далеко, а именно внутри нас, внутри нашей семьи, в дружбе, которыми мы дорожим!\nТак пусть этот милый шарм наполнит вас счастьем, любовью и будет напоминанием о том, что любовь внутри вас!\n\nТематика: Любовь, семья, дети, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30033",
+        "url": "http://kleo4you.com/30033/",
+        "price": "18100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/33/00/30033/images/5021/5021.970.jpg",
+        "name": "Шарм \"Подарок от Санты\"",
+        "description": {
+          "#cdata-section": "Рождество и Новый Год все ближе и ближе!\nПора готовить подарки!\nДополните свой браслет шармом \"Подарок от Санты\", как знак приближающих чудес и напоминания о незабываемом моменте!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29982",
+        "url": "http://kleo4you.com/29982/",
+        "price": "21800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/82/99/29982/images/4837/4837.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/82/99/29982/images/4838/4838.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/82/99/29982/images/4839/4839.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/82/99/29982/images/4840/4840.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/82/99/29982/images/4841/4841.970.PNG"
+        ],
+        "name": "Шарм \"Путешествие к Галактике\"",
+        "description": {
+          "#cdata-section": "Вдохновение далекими планетами и галактиками, невероятной красотой и таинственностью космоса. \nУникальный дизайн и неповторимые детали.\nДополните свой браслет шармом \"Путешествие к Галактике\" как напоминание, что всегда нужно стремиться к звездам!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29975",
+        "url": "http://kleo4you.com/29975/",
+        "price": "17800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/75/99/29975/images/4802/4802.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/99/29975/images/4803/4803.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/99/29975/images/4804/4804.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/99/29975/images/4805/4805.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/75/99/29975/images/4806/4806.970.PNG"
+        ],
+        "name": "Шарм \"Рождественская елка\"",
+        "description": {
+          "#cdata-section": "Рождество, свеча, чудеса! И конечно, рождественская елка!\nДополните свой браслетик или подарите этот милый шармик в новогоднюю ночь близкому человеку, \nкак символ обновления в новом году!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29978",
+        "url": "http://kleo4you.com/29978/",
+        "price": "16600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/78/99/29978/images/4817/4817.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/78/99/29978/images/4818/4818.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/78/99/29978/images/4819/4819.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/78/99/29978/images/4820/4820.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/78/99/29978/images/4821/4821.970.PNG"
+        ],
+        "name": "Шарм \"Санта Клаус в пути!\"",
+        "description": {
+          "#cdata-section": "Приближение праздника и чудес чувствуется все больше и больше, ведь Санта Клаус уже в пути! \nА Вы верите в волшебство? Самое время ждать чудес!\nА шарм \"Санта Клаус в пути!\" поможет вам в этом! \nВыполнен из серебра 925 пробы с эмалью"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30032",
+        "url": "http://kleo4you.com/30032/",
+        "price": "17900.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/32/00/30032/images/5020/5020.970.jpg",
+        "name": "Шарм \"Санта\"",
+        "description": {
+          "#cdata-section": "Вы верите в деда Мороза?\nТогда праздничный шарм \"Санта\" то, что надо, ведь Рождество уже стучится к нам!\nДополните свой браслет милым Сантой или подарите его, чтобы запечатлеть особенный момент в вашей жизни!\n\nТематика: Новый год, Рождество, семья, дети, любовь"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29974",
+        "url": "http://kleo4you.com/sharm-sverkayushchie-zvezdy/",
+        "price": "18700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/74/99/29974/images/4798/4798.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/74/99/29974/images/4799/4799.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/74/99/29974/images/4800/4800.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/74/99/29974/images/4801/4801.970.PNG"
+        ],
+        "name": "Шарм \"Сверкающие звезды!\"",
+        "description": {
+          "#cdata-section": "Подчеркните свой браслет блеском ночного неба и сияние звезд вместе с шармом \"Сверкающие звезды!\" \nИли начните создавать свою историю незабываемых моментов в вашей жизни!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29541",
+        "url": "http://kleo4you.com/29541/",
+        "price": "13200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/41/95/29541/images/3763/3763.970.jpg",
+        "name": "Шарм \"Сверкающий куб\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"ЗОДИАК\"Сверкающий куб. Фигура, которая является символом и мерилом Счастья и Успеха.Подходит на браслеты всех брендов."
+        },
+        "weight": "2.910"
+      },
+      {
+        "available": "true",
+        "id": "30027",
+        "url": "http://kleo4you.com/30027/",
+        "price": "12100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/27/00/30027/images/5010/5010.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/27/00/30027/images/5011/5011.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/27/00/30027/images/5012/5012.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/27/00/30027/images/5013/5013.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/27/00/30027/images/5014/5014.970.jpeg"
+        ],
+        "name": "Шарм \"Семейные корни\"",
+        "description": {
+          "#cdata-section": "Генеалогическое древо - символ вашей растущей семьи и ваших общих уз, \nа этот вневременной шарм из стерлингового серебра - подарок на память о семейной любви.\n Этот замысловатый стиль выполнен из стерлингового серебра и выгравирован с надписью «Семья - это место, где растет любовь».\n Добавьте этот милый шарм к своему браслету, чтобы сохранить близкие воспоминания о своей семье.\n Или подарите его тому, с кем вы разделяете драгоценную связь.\n\n\nТематика: Семья, любовь, дети, особый случай"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30040",
+        "url": "http://kleo4you.com/30040/",
+        "price": "14100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/40/00/30040/images/5036/5036.970.jpg",
+        "name": "Шарм \"Семья\"",
+        "description": {
+          "#cdata-section": "Шарм \"Семья\" - раритетный шарм, давно снятый с производства, но очень многими любимый.\nДля любителей изделий из серебра, без камней.\nДополните свой браслет эти замечательным шармом, как приятное воспоминание семейных традиций."
+        }
+      },
+      {
+        "available": "true",
+        "id": "28987",
+        "url": "http://kleo4you.com/sharm-perlina-sila-serdets/",
+        "price": "9000.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/87/89/28987/images/3721/3721.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/87/89/28987/images/3542/3542.970.gif",
+          "http://kleo4you.com/wa-data/public/shop/products/87/89/28987/images/3541/3541.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/87/89/28987/images/3543/3543.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/87/89/28987/images/3544/3544.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/87/89/28987/images/3545/3545.970.png"
+        ],
+        "name": "Шарм \"Сила сердец\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ \"СЛАВЯНСКОЙ КОЛЛЕКЦИИ\"Если присмотреться к изысканному узору серебряного кружева, из которого выполнен этот шарм, легко разглядеть несколько десятков изящных сердечек. Раскрыть их символику несложно: украшение, таящее в себе силу множества сердец, принесет обладательнице Любовь и Благополучие в личной жизни, убережет от невзгод в счастье с близким человеком."
+        }
+      },
+      {
+        "available": "true",
+        "id": "30028",
+        "url": "http://kleo4you.com/sharm-siyayushchie-zvezdy/",
+        "price": "17200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/28/00/30028/images/5015/5015.970.jpg",
+        "name": "Шарм \"Сияющие звезды\"",
+        "description": {
+          "#cdata-section": "Шарм украшен звездами и сверкающими камнями, как  сияющее звездное небо.\nО чем вы мечтаете, когда смотрите на звездное небо?\nМы уверенны, что ваши мечты прекрасны.\nДополните свой браслет или подарите его, как напоминание о том, что надо мечтать о большом и прекрасном!\n\nТематика: Семья, любовь, дети, особый случай, талисман"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30034",
+        "url": "http://kleo4you.com/30034/",
+        "price": "19700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/34/00/30034/images/5022/5022.970.jpg",
+        "name": "Шарм \"Совушка\"",
+        "description": {
+          "#cdata-section": "Как оберег, сова известна во многих культурах. \nСчиталось, что ее большие глаза способны защитить от зла, поэтому их делали и делают сейчас широко раскрытыми и иногда из крупных драгоценных камней. \nСова защищает от порчи и сглаза, отталкивая всю отрицательную энергетику. \nА еще, совушка помогает найти верный путь в жизненных трудностях, помогает в учебе.\nВерите вы в обереги или нет, в любом случае шарм \"Совушка\" будет выделяться и привлекать внимание на вашем браслете."
+        }
+      },
+      {
+        "available": "true",
+        "id": "28959",
+        "url": "http://kleo4you.com/28959/",
+        "price": "13500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/59/89/28959/images/3790/3790.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/59/89/28959/images/3472/3472.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/59/89/28959/images/3473/3473.970.gif",
+          "http://kleo4you.com/wa-data/public/shop/products/59/89/28959/images/3474/3474.970.png",
+          "http://kleo4you.com/wa-data/public/shop/products/59/89/28959/images/3475/3475.970.png"
+        ],
+        "name": "Шарм \"Стихия-Земля\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"ЗОДИАК\"Земля хранит много тайн, отдавая нам весь мир на ладонях, но, не раскрывая его секретов.И только самые настойчивые и упорные получают земные сокровища. Шарм \u2013 это ваша постоянная связь со стихией земли. Она подарит способность видеть сокрытое и неявное и одарит упорством, нужным для достижения цели."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29992",
+        "url": "http://kleo4you.com/29992/",
+        "price": "16200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/92/99/29992/images/4880/4880.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/92/99/29992/images/4881/4881.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/92/99/29992/images/4883/4883.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/92/99/29992/images/4884/4884.970.PNG"
+        ],
+        "name": "Шарм \"Сундучок с сокровищами\"",
+        "description": {
+          "#cdata-section": "В суете повседневной жизни мы часто забываем о важных моментах, которые происходят с нами, в нашей семье, с нашими детьми.\nЭтот шарм с выгравированной надписью «Сокровище каждого мгновения» и скрытым сердцем внутри является напоминанием о том, что каждый день хранит воспоминания, которые нужно беречь.\nДополните свой браслетик этим смысловым  шармом или подарите его, как знак того, что каждое радостное мгновение-это и есть сокровище, о котором не стоит забывать!\nТематика:  Любовь, семья, дружба, партнерство, день рождение, новый год, юбилей, праздник, подарок коллеге"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29970",
+        "url": "http://kleo4you.com/29970/",
+        "price": "18700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/70/99/29970/images/4777/4777.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/70/99/29970/images/4778/4778.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/70/99/29970/images/4779/4779.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/70/99/29970/images/4780/4780.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/70/99/29970/images/4781/4781.970.PNG"
+        ],
+        "name": "Шарм \"Тыквенный Микки!\"",
+        "description": {
+          "#cdata-section": "Милый и оригинальный шарм \"Тыквенный Микки!\" Выполнен из серебра 925 пробы."
+        }
+      },
+      {
+        "available": "true",
+        "id": "28950",
+        "url": "http://kleo4you.com/sharm-perlina-yasnyy-nebosvod/",
+        "price": "7200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/50/89/28950/images/3433/3433.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/89/28950/images/3849/3849.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/50/89/28950/images/3427/3427.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/89/28950/images/3428/3428.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/89/28950/images/3429/3429.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/89/28950/images/3430/3430.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/89/28950/images/3431/3431.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/50/89/28950/images/3432/3432.970.jpg"
+        ],
+        "name": "Шарм \"Ясный Небосвод\"",
+        "description": {
+          "#cdata-section": "ШАРМ ИЗ КОЛЛЕКЦИИ \"ЙОГА\"Ясный Небосвод. Шарм с изображением золотых солнц на фоне лазоревого неба подарит обладательнице Высшую Мудрость,Твердость духа и убеждений, Уверенность в себе, Целеустремленность, Независимость и Прямоту."
+        }
+      },
+      {
+        "available": "true",
+        "id": "28931",
+        "url": "http://kleo4you.com/sharm---murano-lunnaya-fantaziya/",
+        "price": "10800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/31/89/28931/images/3751/3751.970.jpg",
+        "name": "Шарм - Мурано \"Лунная фантазия\""
+      },
+      {
+        "available": "true",
+        "id": "29931",
+        "url": "http://kleo4you.com/29931/",
+        "price": "19100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/31/99/29931/images/4623/4623.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/31/99/29931/images/4624/4624.970.jpeg"
+        ],
+        "name": "Шарм бесконечность",
+        "description": {
+          "#cdata-section": "Настоящая любовь никогда не заканчивается и это очарование бесконечности олицетворяет вечные узы, которые держат нас вместе. \nЭто ажурное тканое украшение с бесконечностью, изготовленное из стерлингового серебра, украшено фианитом,\n который выглядит так, будто парит между знаками бесконечности. \nПодобно безмерной любви между родителем и ребенком, она не имеет ни конца, ни начала и представляет собой бесконечно глубокую связь, \nкоторая длится всю вечность. \nНосите его как напоминание о тех, кто для вас больше всего значит."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29902",
+        "url": "http://kleo4you.com/29902/",
+        "price": "19800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/02/99/29902/images/4574/4574.970.JPG",
+        "name": "Шарм Возвышенное сверкающее сердце"
+      },
+      {
+        "available": "true",
+        "id": "29682",
+        "url": "http://kleo4you.com/29682/",
+        "price": "12800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/82/96/29682/images/4100/4100.970.JPG",
+        "name": "Шарм Замочек любви"
+      },
+      {
+        "available": "true",
+        "id": "29657",
+        "url": "http://kleo4you.com/sharm-lunnye-siyayushchie-serdtsa/",
+        "price": "18700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/57/96/29657/images/4045/4045.970.JPG",
+        "name": "Шарм Лунные сияющие сердца",
+        "description": {
+          "#cdata-section": "Ослепительное сияние шарма \"Лунные сверкающие сердца\" добавит блеска вашему образу. \nИ конечно, не оставит равнодушными ваших поклонников!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29976",
+        "url": "http://kleo4you.com/29976/",
+        "price": "17200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/76/99/29976/images/4807/4807.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/76/99/29976/images/4808/4808.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/76/99/29976/images/4809/4809.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/76/99/29976/images/4811/4811.970.PNG"
+        ],
+        "name": "Шарм Мурано \"Галактика\"",
+        "description": {
+          "#cdata-section": "Сколько неизведанных миров? И есть ли эти миры? Не важно! \nВ любом случае, неизвестное притягивает точно также, как и шарм \"Галактика\"\nДополните свой браслетик этим завораживающим шармом и наполните его волшебством!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30036",
+        "url": "http://kleo4you.com/30036/",
+        "price": "16100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/36/00/30036/images/5024/5024.970.jpg",
+        "name": "Шарм Мурано \"Капли дождя в ночи!",
+        "description": {
+          "#cdata-section": "Дополните свой браслет  шармом \"Капли дождя в ночи\", чтобы придать ему легкости и воздушности.\nИ как напоминание о том, что после дождливой ночи всегда наступает солнечный день!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "30039",
+        "url": "http://kleo4you.com/30039/",
+        "price": "16100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/39/00/30039/images/5035/5035.970.jpg",
+        "name": "Шарм Ночное Мурано"
+      },
+      {
+        "available": "true",
+        "id": "29684",
+        "url": "http://kleo4you.com/29684/",
+        "price": "21700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/84/96/29684/images/4103/4103.970.png",
+        "name": "Шарм Ночной королевский кристалл"
+      },
+      {
+        "available": "true",
+        "id": "30043",
+        "url": "http://kleo4you.com/sharm-sverkayushchie-serdtsa/",
+        "price": "18700.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/43/00/30043/images/5039/5039.970.jpeg",
+        "name": "Шарм Сверкающие сердца",
+        "description": {
+          "#cdata-section": "Ослепительное сияние шарма \" Сверкающие сердца\" добавит блеска вашему образу. \nИ конечно, не оставит равнодушными ваших поклонников!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29666",
+        "url": "http://kleo4you.com/sharm-semeynye-korni/",
+        "price": "15600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/66/96/29666/images/4077/4077.970.JPG",
+        "name": "Шарм Семейные корни"
+      },
+      {
+        "available": "true",
+        "id": "29879",
+        "url": "http://kleo4you.com/sharm-solovey-v-kletke/",
+        "price": "15300.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/79/98/29879/images/4426/4426.970.jpg",
+        "name": "Шарм Соловей в клетке"
+      },
+      {
+        "available": "true",
+        "id": "29817",
+        "url": "http://kleo4you.com/29817/",
+        "price": "10200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/17/98/29817/images/4291/4291.970.png",
+        "name": "Шарм Сумочка Мэрри Поппинс"
+      },
+      {
+        "available": "true",
+        "id": "29891",
+        "url": "http://kleo4you.com/29891/",
+        "price": "15300.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/91/98/29891/images/4928/4928.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/91/98/29891/images/4929/4929.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/91/98/29891/images/4930/4930.970.PNG",
+          "http://kleo4you.com/wa-data/public/shop/products/91/98/29891/images/4447/4447.970.jpg"
+        ],
+        "name": "Шарм Черепаха",
+        "description": {
+          "#cdata-section": "Черепаха \u2013 это символ постепенного продвижения вперед и достижения цели.\nЭто земноводное смелое и умное. Детеныши черепах продвигаются в сторону моря и находят его, так как имеют завидное упорство. \nЗа эти качества животное и заслужило уважение.\n Если вы верите в обереги, то подвеска с морской черепашкой поможет вам не останавливаться на жизненном пути, а в случае опасности убережет и подскажет выход из возникшей ситуации.\nЧерепаха может спрятаться в панцирь, а человек найдет свое верное решение.\nА если нет, то черепашка вам будет напоминать о море и наполнит вас приятными воспоминаниями.\nТематика:  Отпуск, профессиональный праздник, фен-шуй, пожелания, подарок коллеге, дети"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29830",
+        "url": "http://kleo4you.com/29830/",
+        "price": "13600.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/30/98/29830/images/4309/4309.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/30/98/29830/images/4310/4310.970.jpg"
+        ],
+        "name": "Шарм-клипса Бесконечность"
+      },
+      {
+        "available": "true",
+        "id": "29907",
+        "url": "http://kleo4you.com/29907/",
+        "price": "14100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/07/99/29907/images/4579/4579.970.jpeg",
+        "name": "Шарм-клипса Геометрика"
+      },
+      {
+        "available": "true",
+        "id": "29829",
+        "url": "http://kleo4you.com/29829/",
+        "price": "10800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/29/98/29829/images/4307/4307.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/29/98/29829/images/4308/4308.970.jpg"
+        ],
+        "name": "Шарм-клипса Любовь"
+      },
+      {
+        "available": "true",
+        "id": "29832",
+        "url": "http://kleo4you.com/29832/",
+        "price": "11800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/32/98/29832/images/4313/4313.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/32/98/29832/images/4314/4314.970.jpg"
+        ],
+        "name": "Шарм-клипса Светящаяся корона"
+      },
+      {
+        "available": "true",
+        "id": "29833",
+        "url": "http://kleo4you.com/29833/",
+        "price": "10800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/33/98/29833/images/4315/4315.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/33/98/29833/images/4316/4316.970.jpg"
+        ],
+        "name": "Шарм-клипса Сердце"
+      },
+      {
+        "available": "true",
+        "id": "29831",
+        "url": "http://kleo4you.com/29831/",
+        "price": "16800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/31/98/29831/images/4311/4311.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/31/98/29831/images/4312/4312.970.jpg"
+        ],
+        "name": "Шарм-клипса Элегантность"
+      },
+      {
+        "available": "true",
+        "id": "30035",
+        "url": "http://kleo4you.com/30035/",
+        "price": "16100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/35/00/30035/images/5023/5023.970.jpg",
+        "name": "Шарм-мурано \"Капли дождя\"",
+        "description": {
+          "#cdata-section": "Дополните свой браслет  шармом \"Капли дождя\", чтобы придать ему легкости и воздушности.\nИ как напоминание о том, что после дождя всегда выходит солнце!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29534",
+        "url": "http://kleo4you.com/29534/",
+        "price": "10800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/34/95/29534/images/3748/3748.970.jpg",
+        "name": "Шарм-Мурано \"Мечта полета\"",
+        "weight": "3.280"
+      },
+      {
+        "available": "true",
+        "id": "28933",
+        "url": "http://kleo4you.com/sharm-perlina-nezhnoe-prikosnovenie/",
+        "price": "11500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/33/89/28933/images/3749/3749.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/33/89/28933/images/3383/3383.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/33/89/28933/images/3382/3382.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/33/89/28933/images/3384/3384.970.jpg"
+        ],
+        "name": "Шарм-Мурано \"Нежное прикосновение\""
+      },
+      {
+        "available": "true",
+        "id": "29535",
+        "url": "http://kleo4you.com/29535/",
+        "price": "11500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/35/95/29535/images/3752/3752.970.jpg",
+        "name": "Шарм-Мурано \"Сапфировое небо\"",
+        "description": {
+          "#cdata-section": "Глубокий синий оттенок кварцевой перлинки придаст чарующую загадочность браслету и усилит энергию чакры аджны."
+        },
+        "weight": "4.080"
+      },
+      {
+        "available": "true",
+        "id": "28934",
+        "url": "http://kleo4you.com/28934/",
+        "price": "8100.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/34/89/28934/images/3386/3386.970.jpg",
+        "name": "Шарм-подвеска \"Рука Мира\"",
+        "description": {
+          "#cdata-section": "\"MEMORIES\"Рука мира \u2014 это древний амулет в форме раскрытой ладони, универсальный знак защиты, характерный для многих восточных культур.Подвеска в виде ладони станет мощным оберегом от любых неприятностей и несчастий, избавит от проблем, принесет владелице благополучие и процветание."
+        }
+      },
+      {
+        "available": "true",
+        "id": "29925",
+        "url": "http://kleo4you.com/29925/",
+        "price": "19500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/25/99/29925/images/4609/4609.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/25/99/29925/images/4610/4610.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/25/99/29925/images/4611/4611.970.jpeg"
+        ],
+        "name": "Шарм-подвеска Вдохновляющие звезды"
+      },
+      {
+        "available": "true",
+        "id": "29906",
+        "url": "http://kleo4you.com/29906/",
+        "price": "16300.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/06/99/29906/images/4578/4578.970.jpeg",
+        "name": "Шарм-подвеска Всегда на твоей стороне"
+      },
+      {
+        "available": "true",
+        "id": "29892",
+        "url": "http://kleo4you.com/29892/",
+        "price": "16800.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/92/98/29892/images/4448/4448.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/92/98/29892/images/5025/5025.970.jpeg",
+          "http://kleo4you.com/wa-data/public/shop/products/92/98/29892/images/5026/5026.970.jpeg"
+        ],
+        "name": "Шарм-подвеска Защита, удача и процветание",
+        "description": {
+          "#cdata-section": "Три символа удачи собраны в одной подвеске: Четырехлистный клевер, Подкова на счастье и Божья коровка\nВо многих культурах считалось, что оберег с  изображением  Божьей коровки охраняет детей от несчастья, предупреждает об опасности. \nУже само название говорит о том, какую роль играло это создание в жизни наших предков. \nСчиталось, что божья коровка живет на небесах и лишь время от времени спускается с небес, чтобы передать человеку волю божью.\nЧетырехлистный клевер-самый широко известный символ удачи. Считается, что он притягивает все самое хорошее и защищает от злых людей\nПодкова на счастье  притянет в дом удачу, богатство и защитит от недобрых мыслей других людей. Бытует мнение, что подкову необходимо весить строго концами вверх, иначе можно отпугнуть свою удачу.\nВерите вы в обереги или нет, в любом случае, эта символичная подвеска добавит яркости вашему браслету!"
+        }
+      },
+      {
+        "available": "true",
+        "id": "29886",
+        "url": "http://kleo4you.com/29886/",
+        "price": "12500.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": "http://kleo4you.com/wa-data/public/shop/products/86/98/29886/images/4440/4440.970.jpg",
+        "name": "Шарм-подвеска Клевер"
+      },
+      {
+        "available": "true",
+        "id": "29692",
+        "url": "http://kleo4you.com/29692/",
+        "price": "15200.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/92/96/29692/images/4114/4114.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/92/96/29692/images/4113/4113.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/92/96/29692/images/4115/4115.970.jpg"
+        ],
+        "name": "Шарм-подвеска Ловец снов"
+      },
+      {
+        "available": "true",
+        "id": "29691",
+        "url": "http://kleo4you.com/29691/",
+        "price": "12400.00",
+        "currencyId": "KZT",
+        "categoryId": "1839",
+        "picture": [
+          "http://kleo4you.com/wa-data/public/shop/products/91/96/29691/images/4110/4110.970.JPG",
+          "http://kleo4you.com/wa-data/public/shop/products/91/96/29691/images/4111/4111.970.jpg",
+          "http://kleo4you.com/wa-data/public/shop/products/91/96/29691/images/4112/4112.970.jpg"
+        ],
+        "name": "Шарм-подвеска Следуй за мечтой"
+      }
+    ]
+  }
+]

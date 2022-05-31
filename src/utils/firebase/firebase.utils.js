@@ -8,7 +8,7 @@ import {
     signOut,
     onAuthStateChanged,
 } from 'firebase/auth';
-import { getFirestore, doc, getDoc, setDoc } from 'firebase/firestore';
+import { getFirestore, doc, getDoc, setDoc, getDocs, query, collection, writeBatch } from 'firebase/firestore';
 
 const firebaseConfig = {
     apiKey: "AIzaSyAsc7ufR3ku7Mmy6uKsqPj8_GYJVWtLXW0",
@@ -32,6 +32,33 @@ export const auth = getAuth();
 export const signInWithGooglePopup = () => signInWithPopup(auth, providerGoogle);
 
 export const db = getFirestore();
+
+//TO ADD//
+export const addProductsAndItems = async (collectionName, objectsToAdd) => {
+    const collectRef = collection(db, collectionName);
+    const batch = writeBatch(db);
+
+    objectsToAdd.forEach(object => {
+        const docRef = doc(collectRef, object.title.toLowerCase())
+        batch.set(docRef, object)
+    });
+    await batch.commit();
+    console.log('done');
+}
+
+export const getProductsAndItems = async () => {
+    const collectionRef = collection(db, 'kleo4you');
+    const q = query(collectionRef);
+
+    const querySnapshot = await getDocs(q);
+    const kleoMap = querySnapshot.docs.reduce((acc, collection) => {
+        const { title, items } = collection.data();
+        acc[title.toLowerCase()] = items;
+        return acc;
+    }, {})
+
+    return kleoMap;
+}
 
 export const createUserDocumentFromAuth = async (userAuth, additionalInfo = { }) => {
     if(!userAuth) return;

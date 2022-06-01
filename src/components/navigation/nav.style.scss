@@ -4,10 +4,14 @@
     align-items: center;
     // background-color: aqua;
     border: 1px solid blue;
+    width: 100vw;
+    height: 5rem;
 
-    img {
-        height: 70px;
-        width: auto;
+    .logo {
+        margin-left: 4rem;
+        font-size: 3rem;
+        text-decoration: none;
+        color: white;
     }
 
     .search-box-container {
@@ -25,13 +29,16 @@
         column-gap: 10px;
 
         .fix {
+            font-size: 1.5rem;
+            text-decoration: none;
             color: white;
         }
 
         .sign-out {
             background-color: rgb(246, 91, 91);
+            font-size: 1rem;
+            text-decoration: none;
             color: white;
-            text-decoration: underline;
             cursor: pointer;
         }
     }

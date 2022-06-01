@@ -6,6 +6,10 @@
 .category-container {
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    column-gap: 20px;
-    row-gap: 50px;
+    // grid-auto-flow: column;
+    // gap: 4px;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
 }

@@ -16,12 +16,14 @@ const ProductCard = ({product}) => {
 
     return(
         <div className="product-card-container" key={id}>
-            <img alt={name} src={typeof(picture) === "string" ? `${picture}` : `${picture[0]}`}/>
-            <div className="footer">
-                <span className="name">{name}</span>
-                <span className="price">{price}</span>
+            <div className="card-wrap-container">
+                <img alt={name} src={typeof(picture) === "string" ? `${picture}` : `${picture[0]}`}/>
+                <div className="footer">
+                    <span className="price">{price}</span>
+                    <span className="name">{name}</span>
+                </div>
+                <Button buttonType='inverted' onClick={addItemToCartHandler}>Add to cart</Button>
             </div>
-            <Button buttonType='inverted' onClick={addItemToCartHandler}>Add to cart</Button>
         </div>
     );
 }

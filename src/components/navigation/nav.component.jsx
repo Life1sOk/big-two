@@ -19,7 +19,7 @@ const Navigation = () => {
     return(
         <div className='nav-container'>
             <Link to='/'>
-                <img alt='logo' src='https://kleo4you.com/wa-data/public/site/themes/dsvpro/img/mylogo.png?v1644589111?v1.2.41'/>
+                <span className='logo'>Kleo4YOU</span>
             </Link>
             <div className='search-box-container'>
                 <input type="searchbox" placeholder='Search'></input>

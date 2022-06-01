@@ -27,13 +27,13 @@ const Navigation = () => {
             </div>
             <div className='wrap-log-in'>
                 <Link to='/shop'>
-                    <span>Shop</span>
+                    <span className='fix'>Shop</span>
                 </Link>
                 {
                     currentUser ? 
                     <span onClick={signOutUser} className='sign-out'>Sign OUT</span> : 
                     <Link to='/auth'>
-                        <span>Sign In</span>
+                        <span className='fix'>Sign In</span>
                     </Link>
                 }
                 

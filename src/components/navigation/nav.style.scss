@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: aqua;
+    // background-color: aqua;
     border: 1px solid blue;
 
     img {
@@ -24,9 +24,13 @@
         display: flex;
         column-gap: 10px;
 
+        .fix {
+            color: white;
+        }
+
         .sign-out {
             background-color: rgb(246, 91, 91);
-            color: blue;
+            color: white;
             text-decoration: underline;
             cursor: pointer;
         }

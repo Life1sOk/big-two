@@ -82,7 +82,6 @@ export const createUserDocumentFromAuth = async (userAuth, additionalInfo = { })
             console.log('ERROR TO FIX', error.message)
         }
     }
-    return console.log(userSnapshot)
 }
 
 export const createAuthWithEmailAndPassword = async (email, password) => {

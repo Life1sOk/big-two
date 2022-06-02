@@ -21,10 +21,10 @@ const Navigation = () => {
             <Link to='/'>
                 <span className='logo'>Kleo4YOU</span>
             </Link>
-            <div className='search-box-container'>
+            {/* <div className='search-box-container'>
                 <input type="searchbox" placeholder='Search'></input>
                 <div className='contacts'>Number</div>
-            </div>
+            </div> */}
             <div className='wrap-log-in'>
                 <Link to='/shop'>
                     <span className='fix'>Shop</span>

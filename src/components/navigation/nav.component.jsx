@@ -1,8 +1,9 @@
 import React from 'react';
 import { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import { useSelector } from 'react-redux';
 
-import { UserContext } from '../../contexts/user.context';
+// import { UserContext } from '../../contexts/user.context';
 import { CartContext } from '../../contexts/cart.context';
 
 import { signOutUser } from '../../utils/firebase/firebase.utils';
@@ -13,8 +14,9 @@ import CartDropDown from '../cart-dropdown/cart-dropdown.component';
 import './nav.style.scss';
 
 const Navigation = () => {
-    const { currentUser } = useContext(UserContext);
+    // const { currentUser } = useContext(UserContext);
     const { cartOpen } = useContext(CartContext);
+    const currentUser = useSelector(state => state.user.currentUser)
     
     return(
         <div className='nav-container'>

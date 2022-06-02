@@ -2,7 +2,7 @@
     display: flex; 
     flex-direction: column; 
     margin-bottom: 30px; 
-    width: 100vw;
+    min-width: 720px;
     background-color: white;
 
     .title { 
@@ -13,13 +13,20 @@
     } 
     .preview { 
         display: grid;
-        grid-auto-flow: column;
+        grid-template-columns: repeat(4,1fr);
         gap: 4px;
         align-items: center;
         justify-items: center;
     } 
 
-    // @media screen {
-        
-    // }
+    @media screen and (max-width: 1300px) {
+        .preview {
+            grid-template-columns: repeat(3,1fr);
+        }
+    }
+    @media screen and (max-width: 970px) {
+        .preview {
+            grid-template-columns: repeat(2,1fr);
+        }
+    }
 }

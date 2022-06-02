@@ -2,10 +2,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    // background-color: aqua;
     border: 1px solid blue;
-    width: 100vw;
     height: 5rem;
+    min-width: 720px;
 
     .logo {
         margin-left: 4rem;

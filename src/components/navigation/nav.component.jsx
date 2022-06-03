@@ -3,20 +3,18 @@ import { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
-// import { UserContext } from '../../contexts/user.context';
 import { CartContext } from '../../contexts/cart.context';
 
 import { signOutUser } from '../../utils/firebase/firebase.utils';
-
+import { selectCurrentUser } from '../../store-redux/user/user.selector';
 import CartIcon from '../cart-icon/cart-icon.component';
 import CartDropDown from '../cart-dropdown/cart-dropdown.component';
 
 import './nav.style.scss';
 
 const Navigation = () => {
-    // const { currentUser } = useContext(UserContext);
     const { cartOpen } = useContext(CartContext);
-    const currentUser = useSelector(state => state.user.currentUser)
+    const currentUser = useSelector(selectCurrentUser)
     
     return(
         <div className='nav-container'>

@@ -51,13 +51,7 @@ export const getProductsAndItems = async () => {
     const q = query(collectionRef);
 
     const querySnapshot = await getDocs(q);
-    const kleoMap = querySnapshot.docs.reduce((acc, collection) => {
-        const { title, items } = collection.data();
-        acc[title.toLowerCase()] = items;
-        return acc;
-    }, {})
-
-    return kleoMap;
+    return querySnapshot.docs.map(doc => doc.data())
 }
 
 export const createUserDocumentFromAuth = async (userAuth, additionalInfo = { }) => {

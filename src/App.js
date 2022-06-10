@@ -14,7 +14,6 @@ import Checkout from './routers/checkout/checkout.component';
 import Shop from './routers/shop/shop.component';
 import { setCurrentUser } from './store-redux/user/user.action';
 
-
 function App() {
   const dispatch = useDispatch();
 

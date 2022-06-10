@@ -2,7 +2,6 @@ import React from "react";
 import { useSelector } from "react-redux";
 
 import { selectCartItems, selectCartTotal } from '../../store-redux/cart/cart.selector';
-import { addItemToCart, removeCartItem, clearItemFromCart } from '../../store-redux/cart/cart.action';
 
 import './checkout.style.scss';
 import CheckoutItem from "../../components/checkout-item/checkout.item.component";
@@ -34,9 +33,7 @@ const Checkout = () => {
             <CheckoutItem 
             key={cart.id} 
             cart={cart} 
-            addItemToCart={addItemToCart} 
-            removeCartItem={removeCartItem} 
-            clearItemFromCart={clearItemFromCart} />)}
+            />)}
             <div className='total'>TOTAL: ${cartTotal}</div>
         </div>
     );

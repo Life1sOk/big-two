@@ -15,3 +15,11 @@ export const selectorCollectionMap = createSelector(
         return acc;
     }, {})
 );
+
+export const selecoCollectionIsLoading = createSelector(
+    [selectCollectionReducer],
+    (collectionsSlice) => {
+        console.log(collectionsSlice.isLoading, 'check')
+        return collectionsSlice.isLoading
+    }
+)

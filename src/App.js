@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { Routes, Route } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 
-import { onAuthStateChangedListener, createUserDocumentFromAuth } from './utils/firebase/firebase.utils';
+import { onAuthStateChangedListener, createUserDocumentFromAuth, getCurrentUser } from './utils/firebase/firebase.utils';
 
 import './App.css';
 
@@ -18,14 +18,8 @@ function App() {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    const unsubscribe = onAuthStateChangedListener((user) => {
-        if(user) {
-            createUserDocumentFromAuth(user);
-        }
-        dispatch(setCurrentUser(user));
-    });
-    return unsubscribe
-}, [dispatch])
+    getCurrentUser().then(user => console.log(user))
+}, [])
 
   return (
     <div>

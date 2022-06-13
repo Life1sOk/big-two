@@ -19,7 +19,6 @@ const firebaseConfig = {
     appId: "1:913007534015:web:654bbac201440a58f60b0a"
   };
 
-//   console.log(process.env);
 const firebaseApp = initializeApp(firebaseConfig);
 
 const providerGoogle = new GoogleAuthProvider();
@@ -43,7 +42,6 @@ export const addProductsAndItems = async (collectionName, objectsToAdd) => {
         batch.set(docRef, object)
     });
     await batch.commit();
-    console.log('done');
 }
 
 export const getProductsAndItems = async () => {
@@ -52,7 +50,7 @@ export const getProductsAndItems = async () => {
 
     const querySnapshot = await getDocs(q);
     return querySnapshot.docs.map(doc => doc.data())
-}
+} 
 
 export const createUserDocumentFromAuth = async (userAuth, additionalInfo = { }) => {
     if(!userAuth) return;

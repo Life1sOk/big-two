@@ -19,7 +19,6 @@ export const selectorCollectionMap = createSelector(
 export const selecoCollectionIsLoading = createSelector(
     [selectCollectionReducer],
     (collectionsSlice) => {
-        console.log(collectionsSlice.isLoading, 'check')
         return collectionsSlice.isLoading
     }
 )

@@ -1,10 +1,12 @@
 import React from "react";
 import { useState } from "react";
+import { useDispatch } from "react-redux";
 
 import FormInput from "../form-input/form.input.component";
 import Button from '../button/button.component';
 
 import './sign-in.style.scss';
+import { googleSignInStart, emailSignInStart } from "../../store-redux/user/user.action";
 
 import { 
     signInWithGooglePopup,
@@ -17,19 +19,25 @@ const defaultSubmitObject = {
 }
 
 const SignIn = () => {
+    const dispatch = useDispatch()
 
     const [formFields, setFormFields] = useState(defaultSubmitObject);
     const { email, password } = formFields;
 
+    const resetFormField = () => {
+        setFormFields(defaultSubmitObject)
+    }
+ 
     const signInWithGoogle = async () => {
-        await signInWithGooglePopup();
+        dispatch(googleSignInStart());
     }
 
     const handleSignIn = async (event) => {
         event.preventDefault();
         
         try {
-           await signInAuthWithEmailAndPassword(email, password);
+           dispatch(emailSignInStart(email, password))
+           resetFormField();
         } catch(error) {
             if(error.code === "auth/wrong-password") {
                 alert('Wrong password')

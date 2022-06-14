@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { useSelector } from 'react-redux';
+import { useSelector, useDispatch } from 'react-redux';
 
-import { signOutUser } from '../../utils/firebase/firebase.utils';
+import { signOutStart } from '../../store-redux/user/user.action';
 
 import { selectCurrentUser } from '../../store-redux/user/user.selector';
 import { selectCartOpen } from '../../store-redux/cart/cart.selector';
@@ -13,8 +13,14 @@ import CartDropDown from '../cart-dropdown/cart-dropdown.component';
 import './nav.style.scss';
 
 const Navigation = () => {
+    const dispatch = useDispatch()
+
     const cartOpen = useSelector(selectCartOpen);
     const currentUser = useSelector(selectCurrentUser);
+
+    const signOutUser = () => {
+        return dispatch(signOutStart())
+    }
     
     return(
         <div className='nav-container'>

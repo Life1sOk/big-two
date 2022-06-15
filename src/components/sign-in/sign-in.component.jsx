@@ -8,11 +8,6 @@ import Button from '../button/button.component';
 import './sign-in.style.scss';
 import { googleSignInStart, emailSignInStart } from "../../store-redux/user/user.action";
 
-import { 
-    signInWithGooglePopup,
-    signInAuthWithEmailAndPassword
-} from '../../utils/firebase/firebase.utils.js';
-
 const defaultSubmitObject = {
     email: "",
     password: ""
